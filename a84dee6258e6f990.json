@@ -16,6 +16,7 @@
   "imgAttr": "src",
   "durationSelector": "[data-role=video-duration]",
   "previewAttr": "data-previewvideo",
+  "forceWebView": true,
   "jsonList": {
     "blobRegex": "(?s)window\\.initials\\s*=\\s*(\\{.*?\\});\\s*</script>",
     "arrayKey": "videoThumbProps",
