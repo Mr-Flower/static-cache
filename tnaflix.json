@@ -1,0 +1,88 @@
+{
+  "sitetag": "tnaflix",
+  "base": "https://www.tnaflix.com",
+  "logo": "https://www.tnaflix.com/assets/img/favicon/tnaflix/android-icon-192x192.png",
+  "newUrl": "https://www.tnaflix.com/new/{page}/",
+  "hotUrl": "https://www.tnaflix.com/toprated/{page}/",
+  "newLabel": "New",
+  "hotLabel": "Top Rated",
+  "searchUrl": "https://www.tnaflix.com/search.php?what={q}&page={page}",
+  "searchReplacer": "+",
+  "listDiv": "div[data-vid]",
+  "linkSelector": "a.video-thumb, a.video-title, a[href*=/video]",
+  "titleSelector": "a.video-title",
+  "imgSelector": "img",
+  "imgAttr": "data-src",
+  "durationSelector": "div.video-duration",
+  "previewAttr": "data-trailer",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "<source[^>]+src=\"([^\"]+\\.mp4[^\"]*)\"[^>]*size=\"1080\"",
+      "<source[^>]+src=\"([^\"]+\\.mp4[^\"]*)\"[^>]*size=\"720\"",
+      "<source[^>]+src=\"([^\"]+\\.mp4[^\"]*)\"",
+      "(https?:\\/\\/[^\"'\\s]+\\.mp4\\?[^\"'\\s]*secure=[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video#video-player source, video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.tnaflix.com/amateur-porn/featured/{page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.tnaflix.com/anal-porn/featured/{page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.tnaflix.com/asian-porn/featured/{page}"
+    },
+    {
+      "label": "Big Boobs",
+      "url": "https://www.tnaflix.com/big-boobs/featured/{page}"
+    },
+    {
+      "label": "Bionde",
+      "url": "https://www.tnaflix.com/blonde-porn/featured/{page}"
+    },
+    {
+      "label": "Pompini",
+      "url": "https://www.tnaflix.com/blowjob-videos/featured/{page}"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.tnaflix.com/ebony-porn/featured/{page}"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.tnaflix.com/hardcore-porn/featured/{page}"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.tnaflix.com/latina-porn/featured/{page}"
+    },
+    {
+      "label": "Lesbo",
+      "url": "https://www.tnaflix.com/lesbian-porn/featured/{page}"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.tnaflix.com/mature-porn/featured/{page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.tnaflix.com/milf-porn/featured/{page}"
+    },
+    {
+      "label": "POV",
+      "url": "https://www.tnaflix.com/pov-porn/featured/{page}"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.tnaflix.com/teen-porn/featured/{page}"
+    }
+  ]
+}

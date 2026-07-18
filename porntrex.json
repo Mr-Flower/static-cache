@@ -1,0 +1,277 @@
+{
+  "sitetag": "porntrex",
+  "base": "https://www.porntrex.com",
+  "logo": "https://favicon.yandex.net/favicon/v2/porntrex.com?size=120",
+  "newUrl": "https://www.porntrex.com/latest-updates/{page}/",
+  "mvUrl": "https://www.porntrex.com/most-popular/{page}/",
+  "hotUrl": "https://www.porntrex.com/top-rated/{page}/",
+  "newLabel": "Latest",
+  "mvLabel": "Most Popular",
+  "hotLabel": "Top Rated",
+  "searchUrl": "https://www.porntrex.com/search/{q}/",
+  "searchReplacer": "+",
+  "listDiv": "div.video-item",
+  "linkSelector": "a.rotator-screen, p.inf a, a[href*=/video/]",
+  "titleSelector": "p.inf a",
+  "imgSelector": "img.cover",
+  "imgAttr": "data-src",
+  "durationSelector": "div.durations",
+  "previewImageTemplate": "https://{id}{n}.jpg",
+  "previewIdSelector": "img.cover",
+  "previewIdAttr": "data-src",
+  "previewIdRegex": "//(.+/\\d+x\\d+/)",
+  "previewImageCount": 10,
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "video_url:\\s*'([^']+\\.mp4[^']*)'",
+      "video_alt_url:\\s*'([^']+\\.mp4[^']*)'",
+      "(https?:\\/\\/[^\"'\\s]*get_file[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.porntrex.com/categories/amateur/{page}/"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.porntrex.com/categories/anal/{page}/"
+    },
+    {
+      "label": "Arab",
+      "url": "https://www.porntrex.com/categories/arab/{page}/"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.porntrex.com/categories/asian/{page}/"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.porntrex.com/categories/bbw/{page}/"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.porntrex.com/categories/big-ass/{page}/"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.porntrex.com/categories/big-tits/{page}/"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://www.porntrex.com/categories/blonde/{page}/"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://www.porntrex.com/categories/blowjob/{page}/"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://www.porntrex.com/categories/bondage/{page}/"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://www.porntrex.com/categories/brunette/{page}/"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.porntrex.com/categories/bukkake/{page}/"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.porntrex.com/categories/casting/{page}/"
+    },
+    {
+      "label": "College",
+      "url": "https://www.porntrex.com/categories/college/{page}/"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.porntrex.com/categories/compilation/{page}/"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.porntrex.com/categories/creampie/{page}/"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.porntrex.com/categories/cuckold/{page}/"
+    },
+    {
+      "label": "Czech",
+      "url": "https://www.porntrex.com/categories/czech/{page}/"
+    },
+    {
+      "label": "Deepthroat",
+      "url": "https://www.porntrex.com/categories/deepthroat/{page}/"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://www.porntrex.com/categories/double-penetration/{page}/"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.porntrex.com/categories/ebony/{page}/"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.porntrex.com/categories/fetish/{page}/"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://www.porntrex.com/categories/fingering/{page}/"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.porntrex.com/categories/fisting/{page}/"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://www.porntrex.com/categories/gangbang/{page}/"
+    },
+    {
+      "label": "Gay",
+      "url": "https://www.porntrex.com/categories/gay/{page}/"
+    },
+    {
+      "label": "German",
+      "url": "https://www.porntrex.com/categories/german/{page}/"
+    },
+    {
+      "label": "Gloryhole",
+      "url": "https://www.porntrex.com/categories/gloryhole/{page}/"
+    },
+    {
+      "label": "Hairy",
+      "url": "https://www.porntrex.com/categories/hairy/{page}/"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://www.porntrex.com/categories/handjob/{page}/"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.porntrex.com/categories/hardcore/{page}/"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.porntrex.com/categories/hentai/{page}/"
+    },
+    {
+      "label": "Homemade",
+      "url": "https://www.porntrex.com/categories/homemade/{page}/"
+    },
+    {
+      "label": "Indian",
+      "url": "https://www.porntrex.com/categories/indian/{page}/"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.porntrex.com/categories/interracial/{page}/"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://www.porntrex.com/categories/japanese/{page}/"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.porntrex.com/categories/latina/{page}/"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://www.porntrex.com/categories/lesbian/{page}/"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.porntrex.com/categories/milf/{page}/"
+    },
+    {
+      "label": "Massage",
+      "url": "https://www.porntrex.com/categories/massage/{page}/"
+    },
+    {
+      "label": "Masturbation",
+      "url": "https://www.porntrex.com/categories/masturbation/{page}/"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.porntrex.com/categories/mature/{page}/"
+    },
+    {
+      "label": "Office",
+      "url": "https://www.porntrex.com/categories/office/{page}/"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://www.porntrex.com/categories/orgy/{page}/"
+    },
+    {
+      "label": "Outdoor",
+      "url": "https://www.porntrex.com/categories/outdoor/{page}/"
+    },
+    {
+      "label": "POV",
+      "url": "https://www.porntrex.com/categories/pov/{page}/"
+    },
+    {
+      "label": "Public",
+      "url": "https://www.porntrex.com/categories/public/{page}/"
+    },
+    {
+      "label": "Redhead",
+      "url": "https://www.porntrex.com/categories/red-head/{page}/"
+    },
+    {
+      "label": "Russian",
+      "url": "https://www.porntrex.com/categories/russian/{page}/"
+    },
+    {
+      "label": "Shemale",
+      "url": "https://www.porntrex.com/categories/shemale/{page}/"
+    },
+    {
+      "label": "Skinny",
+      "url": "https://www.porntrex.com/categories/skinny/{page}/"
+    },
+    {
+      "label": "Small Tits",
+      "url": "https://www.porntrex.com/categories/small-tits/{page}/"
+    },
+    {
+      "label": "Solo",
+      "url": "https://www.porntrex.com/categories/solo/{page}/"
+    },
+    {
+      "label": "Squirt",
+      "url": "https://www.porntrex.com/categories/squirt/{page}/"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.porntrex.com/categories/teen/{page}/"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://www.porntrex.com/categories/threesome/{page}/"
+    },
+    {
+      "label": "Toys",
+      "url": "https://www.porntrex.com/categories/toys/{page}/"
+    },
+    {
+      "label": "Uniform",
+      "url": "https://www.porntrex.com/categories/uniform/{page}/"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://www.porntrex.com/categories/vintage/{page}/"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://www.porntrex.com/categories/webcam/{page}/"
+    }
+  ]
+}

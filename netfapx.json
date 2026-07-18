@@ -1,0 +1,84 @@
+{
+  "sitetag": "netfapx",
+  "base": "https://netfapx.com",
+  "logo": "https://netfapx.com/wp-content/uploads/2025/05/fav2.png",
+  "logoNeedsLight": false,
+  "newUrl": "https://netfapx.com/page/{page}/",
+  "searchUrl": "https://netfapx.com/page/{page}/?s={q}",
+  "searchReplacer": "+",
+  "categoryReplacer": "-",
+  "listDiv": "article.pinbox",
+  "linkSelector": "a[href]",
+  "titleSelector": "h3.title-2 a, .title",
+  "imgSelector": "img",
+  "imgAttr": "src",
+  "durationSelector": "div:has(> img[alt=Duration])",
+  "durationRegex": "(\\d{1,2}:\\d{2}(?::\\d{2})?)",
+  "previewImageTemplate": "https://netfapx.com/preview-thumb3/ID{id}_{n}.jpg",
+  "previewIdSelector": "img[id]",
+  "previewIdAttr": "id",
+  "previewImageCount": 10,
+  "cookies": {},
+  "stream": {
+    "postApiUrl": "https://netfapx.com/wp-admin/admin-ajax.php",
+    "postApiBody": "action=get_video_url&idpost={id}",
+    "postApiIdRegex": "\"post_id\"\\s*:\\s*\"(\\d+)\"",
+    "regexes": [
+      "\"contentUrl\"\\s*:\\s*\"([^\"]+\\.(?:mp4|m3u8)[^\"]*)\"",
+      "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
+      "(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src"
+  },
+  "categories": [
+    {
+      "label": "Anal",
+      "url": "https://netfapx.com/category/anal/page/{page}/"
+    },
+    {
+      "label": "Asiatiche",
+      "url": "https://netfapx.com/category/asian/page/{page}/"
+    },
+    {
+      "label": "Culi grossi",
+      "url": "https://netfapx.com/category/big-ass/page/{page}/"
+    },
+    {
+      "label": "Tette grosse",
+      "url": "https://netfapx.com/category/big-tits/page/{page}/"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://netfapx.com/category/bondage/page/{page}/"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://netfapx.com/category/interracial/page/{page}/"
+    },
+    {
+      "label": "Lesbo",
+      "url": "https://netfapx.com/category/lesbian/page/{page}/"
+    },
+    {
+      "label": "Tette medie",
+      "url": "https://netfapx.com/category/medium-tits/page/{page}/"
+    },
+    {
+      "label": "MILF",
+      "url": "https://netfapx.com/category/milf/page/{page}/"
+    },
+    {
+      "label": "POV",
+      "url": "https://netfapx.com/category/pov/page/{page}/"
+    },
+    {
+      "label": "Tette piccole",
+      "url": "https://netfapx.com/category/small-tits/page/{page}/"
+    },
+    {
+      "label": "Teen",
+      "url": "https://netfapx.com/category/teens/page/{page}/"
+    }
+  ]
+}

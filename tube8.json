@@ -1,0 +1,265 @@
+{
+  "sitetag": "tube8",
+  "base": "https://www.tube8.com",
+  "logo": "https://ea.t8cdn.com/e9b74454875ac2be3ea4255b726e72c75f6940ac/tube8/cdn_assets/images/favicons/apple-touch-icon-152x152.png?v=e9b74454875ac2be3ea4255b726e72c75f6940ac",
+  "newUrl": "https://www.tube8.com/newest/page/{page}/",
+  "searchUrl": "https://www.tube8.com/searches.html?q={q}&page={page}",
+  "searchReplacer": "+",
+  "categoryReplacer": "-",
+  "newLabel": "Nuovi",
+  "mvUrl": "https://www.tube8.com/most-viewed/page/{page}/",
+  "mvLabel": "Più visti",
+  "listDiv": "article.video-box",
+  "linkSelector": "a[href*=/porn-video/]",
+  "titleSelector": "a.video-title-text",
+  "titleStripSelector": "",
+  "imgSelector": "img.thumb-image",
+  "imgAttr": "data-src",
+  "durationSelector": ".video-duration",
+  "previewAttr": "data-mediabook",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "\"format\":\"hls\",\"videoUrl\":\"([^\"]+)\"",
+      "\"format\":\"mp4\",\"videoUrl\":\"([^\"]+)\"",
+      "\"videoUrl\":\"(https:[^\"]+)\""
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.tube8.com/cat/amateur/?page={page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.tube8.com/cat/anal/?page={page}"
+    },
+    {
+      "label": "Arab",
+      "url": "https://www.tube8.com/cat/arab/?page={page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.tube8.com/cat/asian/?page={page}"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.tube8.com/cat/bbw/?page={page}"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.tube8.com/cat/bigass/?page={page}"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://www.tube8.com/cat/bigdick/?page={page}"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.tube8.com/cat/bigtits/?page={page}"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://www.tube8.com/cat/blonde/?page={page}"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://www.tube8.com/cat/blowjob/?page={page}"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://www.tube8.com/cat/bondage/?page={page}"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://www.tube8.com/cat/brunette/?page={page}"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.tube8.com/cat/bukkake/?page={page}"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.tube8.com/cat/casting/?page={page}"
+    },
+    {
+      "label": "College",
+      "url": "https://www.tube8.com/cat/college/?page={page}"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.tube8.com/cat/compilation/?page={page}"
+    },
+    {
+      "label": "Cosplay",
+      "url": "https://www.tube8.com/cat/cosplay/?page={page}"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.tube8.com/cat/creampie/?page={page}"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.tube8.com/cat/cuckold/?page={page}"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://www.tube8.com/cat/cumshot/?page={page}"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://www.tube8.com/cat/doublepenetration/?page={page}"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.tube8.com/cat/ebony/?page={page}"
+    },
+    {
+      "label": "Feet",
+      "url": "https://www.tube8.com/cat/feet/?page={page}"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.tube8.com/cat/fetish/?page={page}"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://www.tube8.com/cat/fingering/?page={page}"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.tube8.com/cat/fisting/?page={page}"
+    },
+    {
+      "label": "French",
+      "url": "https://www.tube8.com/cat/french/?page={page}"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://www.tube8.com/cat/gangbang/?page={page}"
+    },
+    {
+      "label": "German",
+      "url": "https://www.tube8.com/cat/german/?page={page}"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://www.tube8.com/cat/handjob/?page={page}"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.tube8.com/cat/hardcore/?page={page}"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.tube8.com/cat/cartoon/?page={page}"
+    },
+    {
+      "label": "Indian",
+      "url": "https://www.tube8.com/cat/indian/?page={page}"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.tube8.com/cat/interracial/?page={page}"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://www.tube8.com/cat/japanese/?page={page}"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.tube8.com/cat/latina/?page={page}"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://www.tube8.com/cat/lesbian/?page={page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.tube8.com/cat/milf/?page={page}"
+    },
+    {
+      "label": "Massage",
+      "url": "https://www.tube8.com/cat/massage/?page={page}"
+    },
+    {
+      "label": "Masturbation",
+      "url": "https://www.tube8.com/cat/masturbation/?page={page}"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.tube8.com/cat/mature/?page={page}"
+    },
+    {
+      "label": "Old Young",
+      "url": "https://www.tube8.com/cat/youngandold/?page={page}"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://www.tube8.com/cat/orgy/?page={page}"
+    },
+    {
+      "label": "POV",
+      "url": "https://www.tube8.com/cat/pov/?page={page}"
+    },
+    {
+      "label": "Party",
+      "url": "https://www.tube8.com/cat/party/?page={page}"
+    },
+    {
+      "label": "Pissing",
+      "url": "https://www.tube8.com/cat/pissing/?page={page}"
+    },
+    {
+      "label": "Public",
+      "url": "https://www.tube8.com/cat/public/?page={page}"
+    },
+    {
+      "label": "Reality",
+      "url": "https://www.tube8.com/cat/reality/?page={page}"
+    },
+    {
+      "label": "Redhead",
+      "url": "https://www.tube8.com/cat/redhead/?page={page}"
+    },
+    {
+      "label": "Rough",
+      "url": "https://www.tube8.com/cat/rough/?page={page}"
+    },
+    {
+      "label": "Squirt",
+      "url": "https://www.tube8.com/cat/squirting/?page={page}"
+    },
+    {
+      "label": "Step Fantasy",
+      "url": "https://www.tube8.com/cat/stepfantasy/?page={page}"
+    },
+    {
+      "label": "Striptease",
+      "url": "https://www.tube8.com/cat/striptease/?page={page}"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.tube8.com/cat/teens/?page={page}"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://www.tube8.com/cat/threesome/?page={page}"
+    },
+    {
+      "label": "Toys",
+      "url": "https://www.tube8.com/cat/toys/?page={page}"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://www.tube8.com/cat/vintage/?page={page}"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://www.tube8.com/cat/webcam/?page={page}"
+    }
+  ]
+}

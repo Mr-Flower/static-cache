@@ -1,0 +1,97 @@
+{
+  "sitetag": "xvideos",
+  "base": "https://www.xvideos.com",
+  "logo": "https://www.xvideos.com/apple-touch-icon.png",
+  "logoNeedsLight": false,
+  "newUrl": "https://www.xvideos.com/new/{page}",
+  "searchUrl": "https://www.xvideos.com/?k={q}&p={page}",
+  "searchReplacer": "+",
+  "categoryReplacer": "-",
+  "newLabel": "Nuovi",
+  "hotUrl": "https://www.xvideos.com/best/{page}",
+  "hotLabel": "Top",
+  "listDiv": "div.thumb-block",
+  "linkSelector": "p.title a, a[href*=/video]",
+  "titleSelector": "p.title a",
+  "titleStripSelector": ".duration",
+  "imgSelector": "img",
+  "imgAttr": "data-src",
+  "previewAttr": "data-pvv",
+  "durationSelector": ".duration",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "setVideoHLS\\('([^']+\\.m3u8[^']*)'",
+      "setVideoUrlHigh\\('([^']+)'",
+      "setVideoUrlLow\\('([^']+)'"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src"
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.xvideos.com/c/Amateur-65/{page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.xvideos.com/c/Anal-12/{page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.xvideos.com/c/Asian_Woman-32/{page}"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.xvideos.com/c/bbw-51/{page}"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.xvideos.com/c/Big_Ass-24/{page}"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.xvideos.com/c/Big_Tits-23/{page}"
+    },
+    {
+      "label": "Bionde",
+      "url": "https://www.xvideos.com/c/Blonde-20/{page}"
+    },
+    {
+      "label": "Pompini",
+      "url": "https://www.xvideos.com/c/Blowjob-15/{page}"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.xvideos.com/c/Creampie-40/{page}"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.xvideos.com/c/Black_Woman-30/{page}"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.xvideos.com/c/Interracial-27/{page}"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.xvideos.com/c/Latina-16/{page}"
+    },
+    {
+      "label": "Lesbo",
+      "url": "https://www.xvideos.com/c/Lesbian-26/{page}"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.xvideos.com/c/Mature-38/{page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.xvideos.com/c/Milf-19/{page}"
+    },
+    {
+      "label": "Teen (18+)",
+      "url": "https://www.xvideos.com/c/Teen-13/{page}"
+    }
+  ]
+}

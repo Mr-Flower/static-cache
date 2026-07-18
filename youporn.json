@@ -1,0 +1,276 @@
+{
+  "sitetag": "youporn",
+  "base": "https://www.youporn.com",
+  "logo": "https://ea.ypncdn.com/e9b74454875ac2be3ea4255b726e72c75f6940ac/youporn/cdn_assets/images/favicons/apple-touch-icon-152x152.png?v=e9b74454875ac2be3ea4255b726e72c75f6940ac",
+  "newUrl": "https://www.youporn.com/browse/time/?page={page}",
+  "hotUrl": "https://www.youporn.com/?page={page}",
+  "searchUrl": "https://www.youporn.com/search/?query={q}&page={page}",
+  "searchReplacer": "+",
+  "listDiv": "article.js_video-box",
+  "linkSelector": "a.video-title-text, a[href*=/watch/]",
+  "titleSelector": "a.video-title-text",
+  "imgSelector": "img",
+  "imgAttr": "data-src",
+  "durationSelector": ".video-duration",
+  "previewAttr": "data-mediabook",
+  "cookies": {
+    "age_verified": "1",
+    "platform": "pc"
+  },
+  "stream": {
+    "regexes": [
+      "(https?:\\\\?/\\\\?/[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
+      "\"videoUrl\"\\s*:\\s*\"([^\"]*media\\\\?/hls[^\"]*)\"",
+      "\"videoUrl\"\\s*:\\s*\"([^\"]*media\\\\?/mp4[^\"]*)\""
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.youporn.com/category/amateur/?page={page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.youporn.com/category/anal/?page={page}"
+    },
+    {
+      "label": "Arab",
+      "url": "https://www.youporn.com/category/arab/?page={page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.youporn.com/category/asian/?page={page}"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.youporn.com/category/bbw/?page={page}"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.youporn.com/category/bigass/?page={page}"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://www.youporn.com/category/bigdick/?page={page}"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.youporn.com/category/bigtits/?page={page}"
+    },
+    {
+      "label": "Bisexual",
+      "url": "https://www.youporn.com/category/bisexual/?page={page}"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://www.youporn.com/category/blonde/?page={page}"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://www.youporn.com/category/blowjob/?page={page}"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://www.youporn.com/category/bondage/?page={page}"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://www.youporn.com/category/brunette/?page={page}"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.youporn.com/category/bukkake/?page={page}"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.youporn.com/category/casting/?page={page}"
+    },
+    {
+      "label": "College",
+      "url": "https://www.youporn.com/category/college/?page={page}"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.youporn.com/category/compilation/?page={page}"
+    },
+    {
+      "label": "Cosplay",
+      "url": "https://www.youporn.com/category/cosplay/?page={page}"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.youporn.com/category/creampie/?page={page}"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.youporn.com/category/cuckold/?page={page}"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://www.youporn.com/category/cumshot/?page={page}"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://www.youporn.com/category/doublepenetration/?page={page}"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.youporn.com/category/ebony/?page={page}"
+    },
+    {
+      "label": "Feet",
+      "url": "https://www.youporn.com/category/feet/?page={page}"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.youporn.com/category/fetish/?page={page}"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://www.youporn.com/category/fingering/?page={page}"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.youporn.com/category/fisting/?page={page}"
+    },
+    {
+      "label": "French",
+      "url": "https://www.youporn.com/category/french/?page={page}"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://www.youporn.com/category/gangbang/?page={page}"
+    },
+    {
+      "label": "German",
+      "url": "https://www.youporn.com/category/german/?page={page}"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://www.youporn.com/category/handjob/?page={page}"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.youporn.com/category/hardcore/?page={page}"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.youporn.com/category/cartoon/?page={page}"
+    },
+    {
+      "label": "Indian",
+      "url": "https://www.youporn.com/category/indian/?page={page}"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.youporn.com/category/interracial/?page={page}"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://www.youporn.com/category/japanese/?page={page}"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.youporn.com/category/latina/?page={page}"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://www.youporn.com/category/lesbian/?page={page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.youporn.com/category/milf/?page={page}"
+    },
+    {
+      "label": "Massage",
+      "url": "https://www.youporn.com/category/massage/?page={page}"
+    },
+    {
+      "label": "Masturbation",
+      "url": "https://www.youporn.com/category/masturbation/?page={page}"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.youporn.com/category/mature/?page={page}"
+    },
+    {
+      "label": "Muscle",
+      "url": "https://www.youporn.com/category/muscle/?page={page}"
+    },
+    {
+      "label": "Old Young",
+      "url": "https://www.youporn.com/category/youngandold/?page={page}"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://www.youporn.com/category/orgy/?page={page}"
+    },
+    {
+      "label": "POV",
+      "url": "https://www.youporn.com/category/pov/?page={page}"
+    },
+    {
+      "label": "Party",
+      "url": "https://www.youporn.com/category/party/?page={page}"
+    },
+    {
+      "label": "Pissing",
+      "url": "https://www.youporn.com/category/pissing/?page={page}"
+    },
+    {
+      "label": "Public",
+      "url": "https://www.youporn.com/category/public/?page={page}"
+    },
+    {
+      "label": "Reality",
+      "url": "https://www.youporn.com/category/reality/?page={page}"
+    },
+    {
+      "label": "Redhead",
+      "url": "https://www.youporn.com/category/redhead/?page={page}"
+    },
+    {
+      "label": "Rough",
+      "url": "https://www.youporn.com/category/rough/?page={page}"
+    },
+    {
+      "label": "Small Tits",
+      "url": "https://www.youporn.com/category/small-tits/?page={page}"
+    },
+    {
+      "label": "Squirt",
+      "url": "https://www.youporn.com/category/squirting/?page={page}"
+    },
+    {
+      "label": "Step Fantasy",
+      "url": "https://www.youporn.com/category/stepfantasy/?page={page}"
+    },
+    {
+      "label": "Striptease",
+      "url": "https://www.youporn.com/category/striptease/?page={page}"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.youporn.com/category/teens/?page={page}"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://www.youporn.com/category/threesome/?page={page}"
+    },
+    {
+      "label": "Toys",
+      "url": "https://www.youporn.com/category/toys/?page={page}"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://www.youporn.com/category/vintage/?page={page}"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://www.youporn.com/category/webcam/?page={page}"
+    }
+  ]
+}

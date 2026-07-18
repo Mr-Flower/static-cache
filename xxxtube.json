@@ -1,0 +1,32 @@
+{
+  "sitetag": "xxxtube",
+  "base": "https://x-x-x.tube",
+  "logo": "https://x-x-x.tube/new_static/img/apple-touch-icon.png",
+  "newUrl": "https://x-x-x.tube/videos/{page}/",
+  "newLabel": "Nuovi",
+  "mvUrl": "https://x-x-x.tube/most-viewed/{page}/",
+  "mvLabel": "Più visti",
+  "searchUrl": "https://x-x-x.tube/search/{q}/{page}/",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "listDiv": "div.item.thumb",
+  "linkSelector": "a[href*=/videos/]",
+  "titleSelector": null,
+  "imgSelector": "img",
+  "imgAttr": "src",
+  "durationSelector": "div.duration",
+  "previewAttr": "data-preview",
+  "stream": {
+    "regexes": [
+      "video_url\\s*:\\s*'(?:function/0/)?(https?://[^']+\\.mp4[^']*)'",
+      "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4[^\"'\\s]*)",
+      "src:\\s*\"([^\"]*m3u8[^\"]*)\"",
+      "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
+      "(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "sitetag": "hqporner",
+  "base": "https://hqporner.com",
+  "logo": "https://favicon.yandex.net/favicon/v2/hqporner.com?size=120",
+  "newUrl": "https://hqporner.com/hdporn/{page}",
+  "mvUrl": "https://hqporner.com/top/{page}",
+  "hotUrl": "https://hqporner.com/top/week/{page}",
+  "searchUrl": "https://hqporner.com/?q={q}",
+  "searchReplacer": "+",
+  "categoryReplacer": "-",
+  "newLabel": "Nuovi",
+  "mvLabel": "Più visti",
+  "hotLabel": "Top settimana",
+  "listDiv": "section.box.feature",
+  "linkSelector": "a.image, a[href*=/hdporn/]",
+  "titleSelector": "h3 a, h3",
+  "imgSelector": "img",
+  "imgAttr": "src",
+  "durationSelector": "span.fa-clock-o",
+  "previewImageTemplate": "https://{id}_{n}.jpg",
+  "previewIdSelector": "img[id^=cover_]",
+  "previewIdAttr": "src",
+  "previewIdRegex": "//(.+)_main\\.jpg",
+  "previewImageCount": 10,
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "<source src=\\\\?\"((?:https?:)?//[^\"'\\\\\\s>]+\\.mp4)",
+      "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": "iframe[src*=mydaddy]"
+  }
+}

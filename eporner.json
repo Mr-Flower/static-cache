@@ -1,0 +1,401 @@
+{
+  "sitetag": "eporner",
+  "base": "https://www.eporner.com",
+  "logo": "https://favicon.yandex.net/favicon/v2/eporner.com?size=120",
+  "logoNeedsLight": false,
+  "newUrl": "https://www.eporner.com/{page}/",
+  "searchUrl": "https://www.eporner.com/search/{q}/{page}/",
+  "browseTabs": [
+    {
+      "label": "Nuovi",
+      "url": "https://www.eporner.com/{page}/"
+    },
+    {
+      "label": "Più visti",
+      "url": "https://www.eporner.com/most-viewed/{page}/"
+    },
+    {
+      "label": "Migliori",
+      "url": "https://www.eporner.com/top-rated/{page}/"
+    },
+    {
+      "label": "Italia",
+      "url": "https://www.eporner.com/country-top/it/{page}/"
+    }
+  ],
+  "searchReplacer": "-",
+  "categoryReplacer": "-",
+  "requiresLogin": true,
+  "forceWebView": true,
+  "login": {
+    "pageUrl": "https://www.eporner.com/",
+    "postUrl": "https://www.eporner.com/xhr/login/",
+    "userField": "login",
+    "passField": "pass",
+    "extraData": {
+      "xhr": "1",
+      "act": "login",
+      "googleToken": "",
+      "ref": "/"
+    },
+    "csrfRegex": "csrfToken['\"]?\\s*[:=]\\s*['\"]([A-Za-z0-9_-]{16,})",
+    "csrfHeader": "X-CSRF-TOKEN",
+    "successRegex": "\"status\"\\s*:\\s*1"
+  },
+  "listDiv": "div.mb",
+  "linkSelector": "a[href*=/video-]",
+  "titleSelector": "p.mbtit a",
+  "imgSelector": "img",
+  "imgAttr": "data-src",
+  "durationSelector": "span.mbtim",
+  "cookies": {
+    "epcolor": "black"
+  },
+  "stream": {
+    "regexes": [
+      "\"contentUrl\"\\s*:\\s*\"([^\"]+\\.(?:mp4|m3u8)[^\"]*)\"",
+      "EP\\.video\\.player[\\s\\S]{0,4000}?(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)",
+      "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src"
+  },
+  "categories": [
+    {
+      "label": "4K Porn",
+      "url": "https://www.eporner.com/cat/4k-porn/{page}/"
+    },
+    {
+      "label": "60 FPS",
+      "url": "https://www.eporner.com/cat/60fps/{page}/"
+    },
+    {
+      "label": "AI",
+      "url": "https://www.eporner.com/cat/ai/{page}/"
+    },
+    {
+      "label": "Amateur",
+      "url": "https://www.eporner.com/cat/amateur/{page}/"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.eporner.com/cat/anal/{page}/"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.eporner.com/cat/asian/{page}/"
+    },
+    {
+      "label": "ASMR",
+      "url": "https://www.eporner.com/cat/asmr/{page}/"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.eporner.com/cat/bbw/{page}/"
+    },
+    {
+      "label": "BDSM",
+      "url": "https://www.eporner.com/cat/bdsm/{page}/"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.eporner.com/cat/big-ass/{page}/"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://www.eporner.com/cat/big-dick/{page}/"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.eporner.com/cat/big-tits/{page}/"
+    },
+    {
+      "label": "Bisexual",
+      "url": "https://www.eporner.com/cat/bisexual/{page}/"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://www.eporner.com/cat/blonde/{page}/"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://www.eporner.com/cat/blowjob/{page}/"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://www.eporner.com/cat/bondage/{page}/"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://www.eporner.com/cat/brunette/{page}/"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.eporner.com/cat/bukkake/{page}/"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.eporner.com/cat/casting/{page}/"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.eporner.com/cat/compilation/{page}/"
+    },
+    {
+      "label": "Cosplay",
+      "url": "https://www.eporner.com/cat/cosplay/{page}/"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.eporner.com/cat/creampie/{page}/"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.eporner.com/cat/cuckold/{page}/"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://www.eporner.com/cat/cumshot/{page}/"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://www.eporner.com/cat/double-penetration/{page}/"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.eporner.com/cat/ebony/{page}/"
+    },
+    {
+      "label": "Fat",
+      "url": "https://www.eporner.com/cat/fat/{page}/"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.eporner.com/cat/fetish/{page}/"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.eporner.com/cat/fisting/{page}/"
+    },
+    {
+      "label": "Footjob",
+      "url": "https://www.eporner.com/cat/footjob/{page}/"
+    },
+    {
+      "label": "For Women",
+      "url": "https://www.eporner.com/cat/for-women/{page}/"
+    },
+    {
+      "label": "Gay",
+      "url": "https://www.eporner.com/cat/gay/{page}/"
+    },
+    {
+      "label": "Gloryhole",
+      "url": "https://www.eporner.com/cat/gloryhole/{page}/"
+    },
+    {
+      "label": "Group Sex",
+      "url": "https://www.eporner.com/cat/group-sex/{page}/"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://www.eporner.com/cat/handjob/{page}/"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.eporner.com/cat/hardcore/{page}/"
+    },
+    {
+      "label": "HD 1080p",
+      "url": "https://www.eporner.com/cat/hd-1080p/{page}/"
+    },
+    {
+      "label": "HD Sex",
+      "url": "https://www.eporner.com/cat/hd-sex/{page}/"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.eporner.com/cat/hentai/{page}/"
+    },
+    {
+      "label": "Homemade",
+      "url": "https://www.eporner.com/cat/homemade/{page}/"
+    },
+    {
+      "label": "Hotel",
+      "url": "https://www.eporner.com/cat/hotel/{page}/"
+    },
+    {
+      "label": "Hotwife",
+      "url": "https://www.eporner.com/cat/hotwife/{page}/"
+    },
+    {
+      "label": "Housewives",
+      "url": "https://www.eporner.com/cat/housewives/{page}/"
+    },
+    {
+      "label": "HQ Porn",
+      "url": "https://www.eporner.com/cat/hq-porn/{page}/"
+    },
+    {
+      "label": "Indian",
+      "url": "https://www.eporner.com/cat/indian/{page}/"
+    },
+    {
+      "label": "Indonesia",
+      "url": "https://www.eporner.com/cat/indonesia/{page}/"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.eporner.com/cat/interracial/{page}/"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://www.eporner.com/cat/japanese/{page}/"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.eporner.com/cat/latina/{page}/"
+    },
+    {
+      "label": "Lesbians",
+      "url": "https://www.eporner.com/cat/lesbians/{page}/"
+    },
+    {
+      "label": "Lingerie",
+      "url": "https://www.eporner.com/cat/lingerie/{page}/"
+    },
+    {
+      "label": "Massage",
+      "url": "https://www.eporner.com/cat/massage/{page}/"
+    },
+    {
+      "label": "Masturbation",
+      "url": "https://www.eporner.com/cat/masturbation/{page}/"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.eporner.com/cat/mature/{page}/"
+    },
+    {
+      "label": "Milf",
+      "url": "https://www.eporner.com/cat/milf/{page}/"
+    },
+    {
+      "label": "Nurse",
+      "url": "https://www.eporner.com/cat/nurse/{page}/"
+    },
+    {
+      "label": "Office",
+      "url": "https://www.eporner.com/cat/office/{page}/"
+    },
+    {
+      "label": "Old Man",
+      "url": "https://www.eporner.com/cat/old-man/{page}/"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://www.eporner.com/cat/orgy/{page}/"
+    },
+    {
+      "label": "Outdoor",
+      "url": "https://www.eporner.com/cat/outdoor/{page}/"
+    },
+    {
+      "label": "PAWG",
+      "url": "https://www.eporner.com/cat/pawg/{page}/"
+    },
+    {
+      "label": "Petite",
+      "url": "https://www.eporner.com/cat/petite/{page}/"
+    },
+    {
+      "label": "Pinay",
+      "url": "https://www.eporner.com/cat/pinay/{page}/"
+    },
+    {
+      "label": "Pornstar",
+      "url": "https://www.eporner.com/cat/pornstar/{page}/"
+    },
+    {
+      "label": "POV Porn",
+      "url": "https://www.eporner.com/cat/pov-porn/{page}/"
+    },
+    {
+      "label": "Pregnant",
+      "url": "https://www.eporner.com/cat/pregnant/{page}/"
+    },
+    {
+      "label": "Public",
+      "url": "https://www.eporner.com/cat/public/{page}/"
+    },
+    {
+      "label": "Redhead",
+      "url": "https://www.eporner.com/cat/redhead/{page}/"
+    },
+    {
+      "label": "Shemale",
+      "url": "https://www.eporner.com/cat/shemale/{page}/"
+    },
+    {
+      "label": "Sleep",
+      "url": "https://www.eporner.com/cat/sleep/{page}/"
+    },
+    {
+      "label": "Small Tits",
+      "url": "https://www.eporner.com/cat/small-tits/{page}/"
+    },
+    {
+      "label": "Squirt",
+      "url": "https://www.eporner.com/cat/squirt/{page}/"
+    },
+    {
+      "label": "Stepmom",
+      "url": "https://www.eporner.com/cat/stepmom/{page}/"
+    },
+    {
+      "label": "Stepsister",
+      "url": "https://www.eporner.com/cat/stepsister/{page}/"
+    },
+    {
+      "label": "Striptease",
+      "url": "https://www.eporner.com/cat/striptease/{page}/"
+    },
+    {
+      "label": "Students",
+      "url": "https://www.eporner.com/cat/students/{page}/"
+    },
+    {
+      "label": "Swingers",
+      "url": "https://www.eporner.com/cat/swingers/{page}/"
+    },
+    {
+      "label": "Teens",
+      "url": "https://www.eporner.com/cat/teens/{page}/"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://www.eporner.com/cat/threesome/{page}/"
+    },
+    {
+      "label": "Toys",
+      "url": "https://www.eporner.com/cat/toys/{page}/"
+    },
+    {
+      "label": "Uniform",
+      "url": "https://www.eporner.com/cat/uniform/{page}/"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://www.eporner.com/cat/vintage/{page}/"
+    },
+    {
+      "label": "VR Porn",
+      "url": "https://www.eporner.com/cat/vr-porn/{page}/"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://www.eporner.com/cat/webcam/{page}/"
+    }
+  ]
+}

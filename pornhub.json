@@ -1,0 +1,95 @@
+{
+  "sitetag": "pornhub",
+  "base": "https://www.pornhub.com",
+  "logo": "https://www.pornhub.com/apple-touch-icon.png",
+  "logoNeedsLight": false,
+  "newUrl": "https://www.pornhub.com/video?o=mr&page={page}",
+  "mvUrl": "https://www.pornhub.com/video?o=mv&page={page}",
+  "hotUrl": "https://www.pornhub.com/video?o=ht&page={page}",
+  "searchUrl": "https://www.pornhub.com/video/search?search={q}&page={page}",
+  "searchReplacer": "+",
+  "categoryReplacer": "-",
+  "listDiv": "li.pcVideoListItem",
+  "linkSelector": "a[href*=view_video.php]",
+  "titleSelector": "span.title a",
+  "imgSelector": "img",
+  "imgAttr": "data-src",
+  "durationSelector": "var.duration",
+  "previewAttr": "data-mediabook",
+  "cookies": {
+    "age_verified": "1",
+    "platform": "pc",
+    "accessAgeDisclaimerPH": "1"
+  },
+  "stream": {
+    "regexes": [
+      "\"format\"\\s*:\\s*\"hls\"[\\s\\S]{0,200}?\"videoUrl\"\\s*:\\s*\"([^\"]+)\"",
+      "\"videoUrl\"\\s*:\\s*\"([^\"]+\\.m3u8[^\"]*)\"",
+      "(https?:\\\\?/\\\\?/[^\"'\\s]+\\.m3u8[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src"
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.pornhub.com/video?c=3&o=mr&page={page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.pornhub.com/video?c=35&o=mr&page={page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.pornhub.com/video?c=1&o=mr&page={page}"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.pornhub.com/video?c=4&o=mr&page={page}"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.pornhub.com/video?c=8&o=mr&page={page}"
+    },
+    {
+      "label": "Bionde",
+      "url": "https://www.pornhub.com/video?c=9&o=mr&page={page}"
+    },
+    {
+      "label": "Pompini",
+      "url": "https://www.pornhub.com/video?c=13&o=mr&page={page}"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.pornhub.com/video?c=15&o=mr&page={page}"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.pornhub.com/video?c=17&o=mr&page={page}"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.pornhub.com/video?c=21&o=mr&page={page}"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.pornhub.com/video?c=25&o=mr&page={page}"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.pornhub.com/video?c=26&o=mr&page={page}"
+    },
+    {
+      "label": "Lesbo",
+      "url": "https://www.pornhub.com/video?c=27&o=mr&page={page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.pornhub.com/video?c=29&o=mr&page={page}"
+    },
+    {
+      "label": "Italiane",
+      "url": "https://www.pornhub.com/video?c=97&o=mr&page={page}"
+    }
+  ]
+}

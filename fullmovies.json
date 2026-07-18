@@ -1,0 +1,364 @@
+{
+  "sitetag": "fullmovies",
+  "base": "https://www.fullmovies.xxx",
+  "logo": "https://www.fullmovies.xxx/img/favicon/apple-touch-icon.png?v=2.0",
+  "newUrl": "https://www.fullmovies.xxx/latest-updates/{page}/",
+  "newLabel": "Nuovi",
+  "mvUrl": "https://www.fullmovies.xxx/most-popular/{page}/",
+  "mvLabel": "Più visti",
+  "hotUrl": "https://www.fullmovies.xxx/top-rated/{page}/",
+  "hotLabel": "Top",
+  "searchUrl": "https://www.fullmovies.xxx/search/{q}/{page}/",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "listDiv": "div.item",
+  "linkSelector": "a[href*=/videos/]",
+  "titleSelector": "strong.title",
+  "imgSelector": "img.thumb, img",
+  "imgAttr": "data-src",
+  "durationSelector": "span.duration",
+  "durationRegex": "(\\d{1,2}:\\d{2}(?::\\d{2})?)",
+  "previewAttr": "data-preview",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4[^\"'\\s]*)",
+      "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
+      "(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.fullmovies.xxx/categories/amateur/{page}/"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.fullmovies.xxx/categories/anal/{page}/"
+    },
+    {
+      "label": "Arab",
+      "url": "https://www.fullmovies.xxx/categories/arab/{page}/"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.fullmovies.xxx/categories/asian/{page}/"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.fullmovies.xxx/categories/bbw/{page}/"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.fullmovies.xxx/categories/big-ass/{page}/"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://www.fullmovies.xxx/categories/big-cock/{page}/"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.fullmovies.xxx/categories/big-tits/{page}/"
+    },
+    {
+      "label": "Bisexual",
+      "url": "https://www.fullmovies.xxx/categories/bisexual/{page}/"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://www.fullmovies.xxx/categories/blonde/{page}/"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://www.fullmovies.xxx/categories/blowjob/{page}/"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://www.fullmovies.xxx/categories/bondage/{page}/"
+    },
+    {
+      "label": "British",
+      "url": "https://www.fullmovies.xxx/categories/british/{page}/"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://www.fullmovies.xxx/categories/brunette/{page}/"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.fullmovies.xxx/categories/bukkake/{page}/"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.fullmovies.xxx/categories/casting/{page}/"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.fullmovies.xxx/categories/compilation/{page}/"
+    },
+    {
+      "label": "Cosplay",
+      "url": "https://www.fullmovies.xxx/categories/cosplay/{page}/"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.fullmovies.xxx/categories/creampie/{page}/"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.fullmovies.xxx/categories/cuckold/{page}/"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://www.fullmovies.xxx/categories/cumshot/{page}/"
+    },
+    {
+      "label": "Czech",
+      "url": "https://www.fullmovies.xxx/categories/czech/{page}/"
+    },
+    {
+      "label": "Deepthroat",
+      "url": "https://www.fullmovies.xxx/categories/deepthroat/{page}/"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://www.fullmovies.xxx/categories/double-anal/{page}/"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.fullmovies.xxx/categories/ebony/{page}/"
+    },
+    {
+      "label": "Facial",
+      "url": "https://www.fullmovies.xxx/categories/facial/{page}/"
+    },
+    {
+      "label": "Feet",
+      "url": "https://www.fullmovies.xxx/categories/feet/{page}/"
+    },
+    {
+      "label": "Femdom",
+      "url": "https://www.fullmovies.xxx/categories/femdom/{page}/"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.fullmovies.xxx/categories/fetish/{page}/"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://www.fullmovies.xxx/categories/fingering/{page}/"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.fullmovies.xxx/categories/fisting/{page}/"
+    },
+    {
+      "label": "French",
+      "url": "https://www.fullmovies.xxx/categories/french/{page}/"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://www.fullmovies.xxx/categories/gangbang/{page}/"
+    },
+    {
+      "label": "German",
+      "url": "https://www.fullmovies.xxx/categories/german/{page}/"
+    },
+    {
+      "label": "Gloryhole",
+      "url": "https://www.fullmovies.xxx/categories/gloryhole/{page}/"
+    },
+    {
+      "label": "Granny",
+      "url": "https://www.fullmovies.xxx/categories/granny/{page}/"
+    },
+    {
+      "label": "Group Sex",
+      "url": "https://www.fullmovies.xxx/categories/group-sex/{page}/"
+    },
+    {
+      "label": "Hairy",
+      "url": "https://www.fullmovies.xxx/categories/hairy/{page}/"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://www.fullmovies.xxx/categories/handjob/{page}/"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.fullmovies.xxx/categories/hardcore/{page}/"
+    },
+    {
+      "label": "Indian",
+      "url": "https://www.fullmovies.xxx/categories/indian/{page}/"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.fullmovies.xxx/categories/interracial/{page}/"
+    },
+    {
+      "label": "Italian",
+      "url": "https://www.fullmovies.xxx/categories/italian/{page}/"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://www.fullmovies.xxx/categories/japanese/{page}/"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.fullmovies.xxx/categories/latina/{page}/"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://www.fullmovies.xxx/categories/lesbian/{page}/"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.fullmovies.xxx/categories/milf/{page}/"
+    },
+    {
+      "label": "Massage",
+      "url": "https://www.fullmovies.xxx/categories/massage/{page}/"
+    },
+    {
+      "label": "Masturbation",
+      "url": "https://www.fullmovies.xxx/categories/masturbation/{page}/"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.fullmovies.xxx/categories/mature/{page}/"
+    },
+    {
+      "label": "Mom",
+      "url": "https://www.fullmovies.xxx/categories/mom/{page}/"
+    },
+    {
+      "label": "Nurse",
+      "url": "https://www.fullmovies.xxx/categories/nurse/{page}/"
+    },
+    {
+      "label": "Office",
+      "url": "https://www.fullmovies.xxx/categories/office/{page}/"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://www.fullmovies.xxx/categories/orgy/{page}/"
+    },
+    {
+      "label": "Outdoor",
+      "url": "https://www.fullmovies.xxx/categories/outdoor/{page}/"
+    },
+    {
+      "label": "POV",
+      "url": "https://www.fullmovies.xxx/categories/pov/{page}/"
+    },
+    {
+      "label": "Pantyhose",
+      "url": "https://www.fullmovies.xxx/categories/pantyhose/{page}/"
+    },
+    {
+      "label": "Party",
+      "url": "https://www.fullmovies.xxx/categories/party/{page}/"
+    },
+    {
+      "label": "Pissing",
+      "url": "https://www.fullmovies.xxx/categories/pissing/{page}/"
+    },
+    {
+      "label": "Pornstar",
+      "url": "https://www.fullmovies.xxx/categories/pornstar/{page}/"
+    },
+    {
+      "label": "Public",
+      "url": "https://www.fullmovies.xxx/categories/public/{page}/"
+    },
+    {
+      "label": "Reality",
+      "url": "https://www.fullmovies.xxx/categories/reality/{page}/"
+    },
+    {
+      "label": "Redhead",
+      "url": "https://www.fullmovies.xxx/categories/redhead/{page}/"
+    },
+    {
+      "label": "Rough",
+      "url": "https://www.fullmovies.xxx/categories/rough-sex/{page}/"
+    },
+    {
+      "label": "Russian",
+      "url": "https://www.fullmovies.xxx/categories/russian/{page}/"
+    },
+    {
+      "label": "Shemale",
+      "url": "https://www.fullmovies.xxx/categories/shemale/{page}/"
+    },
+    {
+      "label": "Skinny",
+      "url": "https://www.fullmovies.xxx/categories/skinny/{page}/"
+    },
+    {
+      "label": "Small Tits",
+      "url": "https://www.fullmovies.xxx/categories/small-tits/{page}/"
+    },
+    {
+      "label": "Solo",
+      "url": "https://www.fullmovies.xxx/categories/solo/{page}/"
+    },
+    {
+      "label": "Squirt",
+      "url": "https://www.fullmovies.xxx/categories/squirt/{page}/"
+    },
+    {
+      "label": "Step Fantasy",
+      "url": "https://www.fullmovies.xxx/categories/step-fantasy/{page}/"
+    },
+    {
+      "label": "Stepmom",
+      "url": "https://www.fullmovies.xxx/categories/stepmom/{page}/"
+    },
+    {
+      "label": "Stockings",
+      "url": "https://www.fullmovies.xxx/categories/stockings/{page}/"
+    },
+    {
+      "label": "Striptease",
+      "url": "https://www.fullmovies.xxx/categories/striptease/{page}/"
+    },
+    {
+      "label": "Tattoo",
+      "url": "https://www.fullmovies.xxx/categories/tattoo/{page}/"
+    },
+    {
+      "label": "Teacher",
+      "url": "https://www.fullmovies.xxx/categories/teacher/{page}/"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.fullmovies.xxx/categories/teen/{page}/"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://www.fullmovies.xxx/categories/threesome/{page}/"
+    },
+    {
+      "label": "Uniform",
+      "url": "https://www.fullmovies.xxx/categories/uniform/{page}/"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://www.fullmovies.xxx/categories/vintage/{page}/"
+    },
+    {
+      "label": "Voyeur",
+      "url": "https://www.fullmovies.xxx/categories/voyeur/{page}/"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://www.fullmovies.xxx/categories/webcam/{page}/"
+    }
+  ]
+}

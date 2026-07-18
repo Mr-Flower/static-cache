@@ -1,0 +1,269 @@
+{
+  "sitetag": "redtube",
+  "base": "https://www.redtube.com",
+  "logo": "https://www.redtube.com/pwaIcons/pwa512x512.png",
+  "newUrl": "https://www.redtube.com/newest?page={page}",
+  "hotUrl": "https://www.redtube.com/hot?page={page}",
+  "mvUrl": "https://www.redtube.com/top?page={page}",
+  "searchUrl": "https://www.redtube.com/?search={q}&page={page}",
+  "searchReplacer": "+",
+  "listDiv": ".videoblock_list",
+  "linkSelector": "a.video_link, a[href][data-video-id]",
+  "titleSelector": "a.video-title-text",
+  "imgSelector": "img",
+  "imgAttr": "data-o_thumb",
+  "durationSelector": "span.tm_video_duration",
+  "previewAttr": "data-mediabook",
+  "cookies": {
+    "age_verified": "1",
+    "platform": "pc"
+  },
+  "stream": {
+    "regexes": [
+      "(https?:\\\\?/\\\\?/[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
+      "\"videoUrl\"\\s*:\\s*\"([^\"]*media\\\\?/hls[^\"]*)\"",
+      "\"videoUrl\"\\s*:\\s*\"([^\"]*media\\\\?/mp4[^\"]*)\""
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://www.redtube.com/redtube/amateur?page={page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.redtube.com/redtube/anal?page={page}"
+    },
+    {
+      "label": "Arab",
+      "url": "https://www.redtube.com/redtube/arab?page={page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://www.redtube.com/redtube/asian?page={page}"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.redtube.com/redtube/bbw?page={page}"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://www.redtube.com/redtube/bigass?page={page}"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://www.redtube.com/redtube/bigdick?page={page}"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.redtube.com/redtube/bigtits?page={page}"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://www.redtube.com/redtube/blonde?page={page}"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://www.redtube.com/redtube/blowjob?page={page}"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://www.redtube.com/redtube/bondage?page={page}"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://www.redtube.com/redtube/brunette?page={page}"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.redtube.com/redtube/bukkake?page={page}"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.redtube.com/redtube/casting?page={page}"
+    },
+    {
+      "label": "College",
+      "url": "https://www.redtube.com/redtube/college?page={page}"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.redtube.com/redtube/compilation?page={page}"
+    },
+    {
+      "label": "Cosplay",
+      "url": "https://www.redtube.com/redtube/cosplay?page={page}"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.redtube.com/redtube/creampie?page={page}"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.redtube.com/redtube/cuckold?page={page}"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://www.redtube.com/redtube/cumshot?page={page}"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://www.redtube.com/redtube/doublepenetration?page={page}"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://www.redtube.com/redtube/ebony?page={page}"
+    },
+    {
+      "label": "Feet",
+      "url": "https://www.redtube.com/redtube/feet?page={page}"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.redtube.com/redtube/fetish?page={page}"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://www.redtube.com/redtube/fingering?page={page}"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.redtube.com/redtube/fisting?page={page}"
+    },
+    {
+      "label": "French",
+      "url": "https://www.redtube.com/redtube/french?page={page}"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://www.redtube.com/redtube/gangbang?page={page}"
+    },
+    {
+      "label": "German",
+      "url": "https://www.redtube.com/redtube/german?page={page}"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://www.redtube.com/redtube/handjob?page={page}"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.redtube.com/redtube/hardcore?page={page}"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.redtube.com/redtube/cartoon?page={page}"
+    },
+    {
+      "label": "Indian",
+      "url": "https://www.redtube.com/redtube/indian?page={page}"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.redtube.com/redtube/interracial?page={page}"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://www.redtube.com/redtube/japanese?page={page}"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.redtube.com/redtube/latina?page={page}"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://www.redtube.com/redtube/lesbian?page={page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.redtube.com/redtube/milf?page={page}"
+    },
+    {
+      "label": "Massage",
+      "url": "https://www.redtube.com/redtube/massage?page={page}"
+    },
+    {
+      "label": "Masturbation",
+      "url": "https://www.redtube.com/redtube/masturbation?page={page}"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.redtube.com/redtube/mature?page={page}"
+    },
+    {
+      "label": "Old Young",
+      "url": "https://www.redtube.com/redtube/youngandold?page={page}"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://www.redtube.com/redtube/orgy?page={page}"
+    },
+    {
+      "label": "POV",
+      "url": "https://www.redtube.com/redtube/pov?page={page}"
+    },
+    {
+      "label": "Party",
+      "url": "https://www.redtube.com/redtube/party?page={page}"
+    },
+    {
+      "label": "Pissing",
+      "url": "https://www.redtube.com/redtube/pissing?page={page}"
+    },
+    {
+      "label": "Public",
+      "url": "https://www.redtube.com/redtube/public?page={page}"
+    },
+    {
+      "label": "Reality",
+      "url": "https://www.redtube.com/redtube/reality?page={page}"
+    },
+    {
+      "label": "Redhead",
+      "url": "https://www.redtube.com/redtube/redhead?page={page}"
+    },
+    {
+      "label": "Rough",
+      "url": "https://www.redtube.com/redtube/rough?page={page}"
+    },
+    {
+      "label": "Small Tits",
+      "url": "https://www.redtube.com/redtube/small-tits?page={page}"
+    },
+    {
+      "label": "Squirt",
+      "url": "https://www.redtube.com/redtube/squirting?page={page}"
+    },
+    {
+      "label": "Step Fantasy",
+      "url": "https://www.redtube.com/redtube/stepfantasy?page={page}"
+    },
+    {
+      "label": "Striptease",
+      "url": "https://www.redtube.com/redtube/striptease?page={page}"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.redtube.com/redtube/teens?page={page}"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://www.redtube.com/redtube/threesome?page={page}"
+    },
+    {
+      "label": "Toys",
+      "url": "https://www.redtube.com/redtube/toys?page={page}"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://www.redtube.com/redtube/vintage?page={page}"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://www.redtube.com/redtube/webcam?page={page}"
+    }
+  ]
+}

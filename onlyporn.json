@@ -1,0 +1,18 @@
+{
+  "sitetag": "onlyporn",
+  "base": "https://www.onlyporn.tube",
+  "logo": "https://www.onlyporn.tube/static/images/favicons/apple-touch-icon.png",
+  "newUrl": "https://www.onlyporn.tube/api/json/videos2/14400/str/latest-updates/60/..{page}.all...jsond",
+  "newLabel": "Nuovi",
+  "mvUrl": "https://www.onlyporn.tube/api/json/videos2/14400/str/most-popular/60/..{page}.all...jsond",
+  "mvLabel": "Più visti",
+  "hotUrl": "https://www.onlyporn.tube/api/json/videos2/14400/str/top-rated/60/..{page}.all...jsond",
+  "hotLabel": "Top",
+  "searchUrl": "https://www.onlyporn.tube/api/videos2.php?params=14400/str/relevance/60/search..{page}.all..&s={q}",
+  "searchReplacer": "+",
+  "categoryReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "listDiv": "unused",
+  "txxxApi": true
+}

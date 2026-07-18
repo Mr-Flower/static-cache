@@ -1,0 +1,46 @@
+{
+  "sitetag": "xnxx",
+  "base": "https://www.xnxx.com",
+  "logo": "https://www.xnxx.com/apple-touch-icon.png",
+  "searchUrl": "https://www.xnxx.com/search/{q}/{page}",
+  "searchReplacer": "+",
+  "categoryReplacer": "-",
+  "browseTabs": [
+    {
+      "label": "Nuovi",
+      "url": "https://www.xnxx.com/todays-selection/{page}"
+    },
+    {
+      "label": "Popolari",
+      "url": "https://www.xnxx.com/hits/{page}"
+    },
+    {
+      "label": "Del mese",
+      "url": "https://www.xnxx.com/best/{page}"
+    }
+  ],
+  "listDiv": "div.thumb-block",
+  "linkSelector": "a.thumb-link, div.thumb > a",
+  "linkRegex": "(/video-[^/]+)/\\d+/THUMBNUM",
+  "linkReplace": "$1",
+  "titleSelector": "a.title, div.thumb-under p a",
+  "imgSelector": "img",
+  "imgAttr": "data-src",
+  "imgRegex": "THUMBNUM",
+  "imgReplace": "1",
+  "previewAttr": "data-video",
+  "previewAttrJsonKey": "previewVideo",
+  "previewAttrAlt": "data-pvv",
+  "durationSelector": ".metadata",
+  "durationRegex": "(\\d+h\\s*\\d+min|\\d+min|\\d+:\\d+|\\d+sec)",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "setVideoHLS\\('([^']+\\.m3u8[^']*)'",
+      "setVideoUrlHigh\\('([^']+)'",
+      "setVideoUrlLow\\('([^']+)'"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src"
+  }
+}

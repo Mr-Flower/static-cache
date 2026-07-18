@@ -1,0 +1,350 @@
+{
+  "sitetag": "xhamster",
+  "base": "https://xhamster.com",
+  "logo": "https://static-ah.xhcdn.com/xh-desktop/images/favicon/favicon-v2-192x192.png?v=1",
+  "newUrl": "https://xhamster.com/newest/{page}",
+  "hotUrl": "https://xhamster.com/best/weekly/{page}",
+  "searchUrl": "https://xhamster.com/search/{q}?page={page}",
+  "searchReplacer": "-",
+  "categoryReplacer": "-",
+  "newLabel": "Nuovi",
+  "listDiv": "div.video-thumb",
+  "linkSelector": "a[href*=/videos/]",
+  "titleSelector": "a.video-thumb-info__name",
+  "titleStripSelector": "",
+  "imgSelector": "img",
+  "imgAttr": "src",
+  "durationSelector": "[data-role=video-duration]",
+  "previewAttr": "data-previewvideo",
+  "jsonList": {
+    "blobRegex": "(?s)window\\.initials\\s*=\\s*(\\{.*?\\});\\s*</script>",
+    "arrayKey": "videoThumbProps",
+    "titleKey": "title",
+    "urlKey": "pageURL",
+    "thumbKey": "thumbURL",
+    "durationKey": "duration",
+    "durationSeconds": true,
+    "previewKey": "trailerURL",
+    "urlMustStartWith": "https://xhamster.com/videos/"
+  },
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "(https://[^\\s\"']+\\.m3u8[^\\s\"']*)",
+      "href=\"([^\"]+\\.m3u8[^\"]*)\""
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://xhamster.com/categories/amateur/newest/{page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://xhamster.com/categories/anal/newest/{page}"
+    },
+    {
+      "label": "Arab",
+      "url": "https://xhamster.com/categories/arab/newest/{page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://xhamster.com/categories/asian/newest/{page}"
+    },
+    {
+      "label": "BBW",
+      "url": "https://xhamster.com/categories/bbw/newest/{page}"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://xhamster.com/categories/big-ass/newest/{page}"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://xhamster.com/categories/big-cock/newest/{page}"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://xhamster.com/categories/big-tits/newest/{page}"
+    },
+    {
+      "label": "Bisexual",
+      "url": "https://xhamster.com/categories/bisexual/newest/{page}"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://xhamster.com/categories/blonde/newest/{page}"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://xhamster.com/categories/blowjob/newest/{page}"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://xhamster.com/categories/bondage/newest/{page}"
+    },
+    {
+      "label": "British",
+      "url": "https://xhamster.com/categories/british/newest/{page}"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://xhamster.com/categories/brunette/newest/{page}"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://xhamster.com/categories/bukkake/newest/{page}"
+    },
+    {
+      "label": "Casting",
+      "url": "https://xhamster.com/categories/casting/newest/{page}"
+    },
+    {
+      "label": "Chubby",
+      "url": "https://xhamster.com/categories/chubby/newest/{page}"
+    },
+    {
+      "label": "College",
+      "url": "https://xhamster.com/categories/college/newest/{page}"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://xhamster.com/categories/compilation/newest/{page}"
+    },
+    {
+      "label": "Cosplay",
+      "url": "https://xhamster.com/categories/cosplay/newest/{page}"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://xhamster.com/categories/creampie/newest/{page}"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://xhamster.com/categories/cuckold/newest/{page}"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://xhamster.com/categories/cumshot/newest/{page}"
+    },
+    {
+      "label": "Czech",
+      "url": "https://xhamster.com/categories/czech/newest/{page}"
+    },
+    {
+      "label": "Deepthroat",
+      "url": "https://xhamster.com/categories/deep-throat/newest/{page}"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://xhamster.com/categories/double-penetration/newest/{page}"
+    },
+    {
+      "label": "Facial",
+      "url": "https://xhamster.com/categories/facial/newest/{page}"
+    },
+    {
+      "label": "Femdom",
+      "url": "https://xhamster.com/categories/femdom/newest/{page}"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://xhamster.com/categories/fetish/newest/{page}"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://xhamster.com/categories/fingering/newest/{page}"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://xhamster.com/categories/fisting/newest/{page}"
+    },
+    {
+      "label": "French",
+      "url": "https://xhamster.com/categories/french/newest/{page}"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://xhamster.com/categories/gangbang/newest/{page}"
+    },
+    {
+      "label": "Gloryhole",
+      "url": "https://xhamster.com/categories/glory-hole/newest/{page}"
+    },
+    {
+      "label": "Granny",
+      "url": "https://xhamster.com/categories/granny/newest/{page}"
+    },
+    {
+      "label": "Group Sex",
+      "url": "https://xhamster.com/categories/group-sex/newest/{page}"
+    },
+    {
+      "label": "Hairy",
+      "url": "https://xhamster.com/categories/hairy/newest/{page}"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://xhamster.com/categories/handjob/newest/{page}"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://xhamster.com/categories/hardcore/newest/{page}"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://xhamster.com/categories/hentai/newest/{page}"
+    },
+    {
+      "label": "Homemade",
+      "url": "https://xhamster.com/categories/homemade/newest/{page}"
+    },
+    {
+      "label": "Indian",
+      "url": "https://xhamster.com/categories/indian/newest/{page}"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://xhamster.com/categories/interracial/newest/{page}"
+    },
+    {
+      "label": "Italian",
+      "url": "https://xhamster.com/categories/italian/newest/{page}"
+    },
+    {
+      "label": "Latina",
+      "url": "https://xhamster.com/categories/latina/newest/{page}"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://xhamster.com/categories/lesbian/newest/{page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://xhamster.com/categories/milf/newest/{page}"
+    },
+    {
+      "label": "Massage",
+      "url": "https://xhamster.com/categories/massage/newest/{page}"
+    },
+    {
+      "label": "Mature",
+      "url": "https://xhamster.com/categories/mature/newest/{page}"
+    },
+    {
+      "label": "Mom",
+      "url": "https://xhamster.com/categories/mom/newest/{page}"
+    },
+    {
+      "label": "Nurse",
+      "url": "https://xhamster.com/categories/nurse/newest/{page}"
+    },
+    {
+      "label": "Office",
+      "url": "https://xhamster.com/categories/office/newest/{page}"
+    },
+    {
+      "label": "Old Young",
+      "url": "https://xhamster.com/categories/old-young/newest/{page}"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://xhamster.com/categories/orgy/newest/{page}"
+    },
+    {
+      "label": "Outdoor",
+      "url": "https://xhamster.com/categories/outdoor/newest/{page}"
+    },
+    {
+      "label": "POV",
+      "url": "https://xhamster.com/categories/pov/newest/{page}"
+    },
+    {
+      "label": "Pantyhose",
+      "url": "https://xhamster.com/categories/pantyhose/newest/{page}"
+    },
+    {
+      "label": "Party",
+      "url": "https://xhamster.com/categories/party/newest/{page}"
+    },
+    {
+      "label": "Pissing",
+      "url": "https://xhamster.com/categories/pissing/newest/{page}"
+    },
+    {
+      "label": "Pornstar",
+      "url": "https://xhamster.com/categories/pornstar/newest/{page}"
+    },
+    {
+      "label": "Redhead",
+      "url": "https://xhamster.com/categories/redhead/newest/{page}"
+    },
+    {
+      "label": "Rough",
+      "url": "https://xhamster.com/categories/rough-sex/newest/{page}"
+    },
+    {
+      "label": "Skinny",
+      "url": "https://xhamster.com/categories/skinny/newest/{page}"
+    },
+    {
+      "label": "Small Tits",
+      "url": "https://xhamster.com/categories/small-tits/newest/{page}"
+    },
+    {
+      "label": "Solo",
+      "url": "https://xhamster.com/categories/solo/newest/{page}"
+    },
+    {
+      "label": "Squirt",
+      "url": "https://xhamster.com/categories/squirting/newest/{page}"
+    },
+    {
+      "label": "Stockings",
+      "url": "https://xhamster.com/categories/stockings/newest/{page}"
+    },
+    {
+      "label": "Striptease",
+      "url": "https://xhamster.com/categories/striptease/newest/{page}"
+    },
+    {
+      "label": "Swingers",
+      "url": "https://xhamster.com/categories/swingers/newest/{page}"
+    },
+    {
+      "label": "Tattoo",
+      "url": "https://xhamster.com/categories/tattoo/newest/{page}"
+    },
+    {
+      "label": "Teacher",
+      "url": "https://xhamster.com/categories/teacher/newest/{page}"
+    },
+    {
+      "label": "Teen",
+      "url": "https://xhamster.com/categories/teen/newest/{page}"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://xhamster.com/categories/threesome/newest/{page}"
+    },
+    {
+      "label": "Uniform",
+      "url": "https://xhamster.com/categories/uniform/newest/{page}"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://xhamster.com/categories/vintage/newest/{page}"
+    },
+    {
+      "label": "Voyeur",
+      "url": "https://xhamster.com/categories/voyeur/newest/{page}"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://xhamster.com/categories/webcam/newest/{page}"
+    }
+  ]
+}

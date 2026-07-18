@@ -1,0 +1,28 @@
+{
+  "sitetag": "solopornoitaliani",
+  "base": "https://www.solopornoitaliani.xxx",
+  "logo": "https://favicon.yandex.net/favicon/v2/solopornoitaliani.xxx?size=120",
+  "newUrl": "https://www.solopornoitaliani.xxx/video/{page}/",
+  "searchUrl": "https://www.solopornoitaliani.xxx/search/{q}/?from={page}",
+  "searchReplacer": "-",
+  "newLabel": "Nuovi",
+  "listDiv": "div.item",
+  "linkSelector": "a[href*=/video/]",
+  "titleSelector": "strong.title",
+  "titleStripSelector": "",
+  "imgSelector": "img.thumb, img",
+  "imgAttr": "src",
+  "durationSelector": "div.duration",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4/\\?download[^\"'\\s&]*)",
+      "video_url\\s*:\\s*'(?:function/0/)?(https?://[^']+\\.mp4[^']*)'",
+      "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
+      "(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  }
+}

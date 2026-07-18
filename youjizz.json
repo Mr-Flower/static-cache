@@ -1,0 +1,135 @@
+{
+  "sitetag": "youjizz",
+  "base": "https://www.youjizz.com",
+  "logo": "https://favicon.yandex.net/favicon/v2/youjizz.com?size=120",
+  "newUrl": "https://www.youjizz.com/newest-clips/{page}.html",
+  "newLabel": "Nuovi",
+  "mvUrl": "https://www.youjizz.com/most-popular/{page}.html",
+  "mvLabel": "Più visti",
+  "hotUrl": "https://www.youjizz.com/top-rated/{page}.html",
+  "hotLabel": "Top",
+  "searchUrl": "https://www.youjizz.com/search/{q}-{page}.html",
+  "searchReplacer": "-",
+  "listDiv": "div.video-item",
+  "linkSelector": "a.frame.video, .video-title a",
+  "titleSelector": ".video-title a",
+  "imgSelector": "img",
+  "imgAttr": "data-original",
+  "durationSelector": "span.time",
+  "previewAttr": "data-clip",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "\"filename\":\"([^\"]+\\.urlset[^\"]*\\.m3u8[^\"]*)\"",
+      "\"filename\":\"([^\"]+\\.m3u8[^\"]*)\"",
+      "\"quality\":\"1080\",\"filename\":\"([^\"]+\\.mp4[^\"]*)\"",
+      "\"quality\":\"720\",\"filename\":\"([^\"]+\\.mp4[^\"]*)\"",
+      "\"filename\":\"([^\"]+\\.mp4[^\"]*)\""
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "categories": [
+    {
+      "label": "AI",
+      "url": "https://www.youjizz.com/categories/ai-generated-{page}.html"
+    },
+    {
+      "label": "Amateur",
+      "url": "https://www.youjizz.com/categories/amateur-{page}.html"
+    },
+    {
+      "label": "Anal",
+      "url": "https://www.youjizz.com/categories/anal-{page}.html"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://www.youjizz.com/categories/big-tits-{page}.html"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.youjizz.com/categories/casting-{page}.html"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.youjizz.com/categories/compilation-{page}.html"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.youjizz.com/categories/cuckold-{page}.html"
+    },
+    {
+      "label": "Family",
+      "url": "https://www.youjizz.com/categories/family-{page}.html"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://www.youjizz.com/categories/gangbang-{page}.html"
+    },
+    {
+      "label": "Granny",
+      "url": "https://www.youjizz.com/categories/granny-{page}.html"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.youjizz.com/categories/hentai-{page}.html"
+    },
+    {
+      "label": "Italian",
+      "url": "https://www.youjizz.com/categories/italian-{page}.html"
+    },
+    {
+      "label": "Italiano",
+      "url": "https://www.youjizz.com/categories/italiano-{page}.html"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://www.youjizz.com/categories/japanese-{page}.html"
+    },
+    {
+      "label": "Latina",
+      "url": "https://www.youjizz.com/categories/latina-{page}.html"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://www.youjizz.com/categories/lesbian-{page}.html"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.youjizz.com/categories/milf-{page}.html"
+    },
+    {
+      "label": "Massage",
+      "url": "https://www.youjizz.com/categories/massage-{page}.html"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.youjizz.com/categories/mature-{page}.html"
+    },
+    {
+      "label": "Sister",
+      "url": "https://www.youjizz.com/categories/sister-{page}.html"
+    },
+    {
+      "label": "Sleeping",
+      "url": "https://www.youjizz.com/categories/sleeping-{page}.html"
+    },
+    {
+      "label": "Step Sister",
+      "url": "https://www.youjizz.com/categories/step-sister-{page}.html"
+    },
+    {
+      "label": "Stepmom",
+      "url": "https://www.youjizz.com/categories/stepmom-{page}.html"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.youjizz.com/categories/teen-{page}.html"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://www.youjizz.com/categories/threesome-{page}.html"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "sitetag": "perverzija",
+  "base": "https://tube.perverzija.com",
+  "logo": "https://tube.perverzija.com/wp-content/uploads/2018/12/cropped-perverzija-usne-192x192.jpg",
+  "newUrl": "https://tube.perverzija.com/studio/page/{page}/",
+  "newLabel": "Nuovi",
+  "browseTabs": [
+    { "label": "Nuovi", "url": "https://tube.perverzija.com/studio/page/{page}/" },
+    { "label": "Più visti", "url": "https://tube.perverzija.com/studio/page/{page}/?orderby=view" },
+    { "label": "Più piaciuti", "url": "https://tube.perverzija.com/studio/page/{page}/?orderby=like" },
+    { "label": "In evidenza", "url": "https://tube.perverzija.com/featured-scenes/page/{page}/" },
+    { "label": "Film completi", "url": "https://tube.perverzija.com/full-movie/page/{page}/" },
+    { "label": "VR", "url": "https://tube.perverzija.com/vr/page/{page}/" },
+    { "label": "4K", "url": "https://tube.perverzija.com/tag/4k-quality/page/{page}/" },
+    { "label": "Sottotitolati", "url": "https://tube.perverzija.com/tag/subtitles/page/{page}/" }
+  ],
+  "searchUrl": "https://tube.perverzija.com/page/{page}/?s={q}",
+  "searchReplacer": "+",
+  "listDiv": "section.video-listing div.video-item",
+  "linkSelector": ".item-thumbnail a, .item-head h2 a, .item-head h3 a",
+  "titleSelector": ".item-head h2 a, .item-head h3 a",
+  "titleAttr": "title",
+  "imgSelector": "img",
+  "imgAttr": "src",
+  "durationSelector": "span.time_dur",
+  "cookies": {},
+  "stream": {
+    "regexes": [
+      "\"contentUrl\"\\s*:\\s*\"([^\"]+\\.(?:mp4|m3u8)[^\"]*)\"",
+      "(https?:[^\"'\\s]+xtremestream[^\"'\\s]*xs1\\.php\\?data=[a-f0-9]+)",
+      "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
+      "(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": "iframe[src*=xtremestream], iframe[src*=player/index.php]"
+  },
+  "disablePreview": true
+}
