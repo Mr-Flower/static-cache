@@ -17,6 +17,7 @@
   "durationSelector": "[data-role=video-duration]",
   "previewAttr": "data-previewvideo",
   "forceWebView": true,
+  "sniffPreferHls": true,
   "jsonList": {
     "blobRegex": "(?s)window\\.initials\\s*=\\s*(\\{.*?\\});\\s*</script>",
     "arrayKey": "videoThumbProps",
