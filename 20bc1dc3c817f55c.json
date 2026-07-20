@@ -1,0 +1,28 @@
+{
+  "sitetag": "youcrazyx",
+  "base": "https://www.youcrazyx.com",
+  "logo": "https://favicon.yandex.net/favicon/v2/youcrazyx.com?size=120",
+  "newUrl": "https://www.youcrazyx.com/?page={page}",
+  "mvUrl": "https://www.youcrazyx.com/most-viewed/?page={page}",
+  "hotUrl": "https://www.youcrazyx.com/top-rated/?page={page}",
+  "searchUrl": "https://www.youcrazyx.com/search/{q}/",
+  "listDiv": "div.well",
+  "linkSelector": "a.video-link[href*=/video/]",
+  "titleSelector": "span.video-title",
+  "imgSelector": "img",
+  "imgAttr": "data-original",
+  "durationSelector": "div.duration",
+  "stream": {
+    "regexes": [],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "newLabel": "Nuovi",
+  "mvLabel": "Più visti",
+  "hotLabel": "Top",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "cookies": {}
+}

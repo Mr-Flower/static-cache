@@ -1,0 +1,33 @@
+{
+  "sitetag": "fpo",
+  "base": "https://www.fpo.xxx",
+  "logo": "https://www.fpo.xxx/apple-touch-icon.png",
+  "newUrl": "https://www.fpo.xxx/new-1/{page}/",
+  "mvUrl": "https://www.fpo.xxx/popular-2/{page}/",
+  "hotUrl": "https://www.fpo.xxx/top-2/{page}/",
+  "searchUrl": "https://www.fpo.xxx/search/{q}/{page}/",
+  "listDiv": "div.item",
+  "linkSelector": "a[href*=/video/]",
+  "titleSelector": "strong.title",
+  "imgSelector": "img.thumb",
+  "imgAttr": "data-original",
+  "durationSelector": "span.duration",
+  "previewSelector": "img.thumb",
+  "previewAttr": "data-preview",
+  "stream": {
+    "regexes": [
+      "video(?:_alt)?_url\\d*\\s*:\\s*'([^']+)'",
+      "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4/?[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "newLabel": "Nuovi",
+  "mvLabel": "Più visti",
+  "hotLabel": "Top",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "cookies": {}
+}
