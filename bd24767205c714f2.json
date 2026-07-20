@@ -1,0 +1,31 @@
+{
+  "sitetag": "porndd",
+  "base": "https://porndd.com",
+  "logo": "https://favicon.yandex.net/favicon/v2/porndd.com?size=120",
+  "newUrl": "https://porndd.com/latest-updates/{page}/",
+  "mvUrl": "https://porndd.com/most-popular/{page}/",
+  "hotUrl": "https://porndd.com/top-rated/{page}/",
+  "searchUrl": "https://porndd.com/search/{q}/",
+  "listDiv": "div.item",
+  "linkSelector": "a[href*=/video/]",
+  "titleSelector": "strong.title",
+  "imgSelector": "img.thumb",
+  "imgAttr": "data-original",
+  "durationSelector": "div.duration",
+  "stream": {
+    "regexes": [
+      "video(?:_alt)?_url\\d*\\s*:\\s*'([^']+)'",
+      "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4/?[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "newLabel": "Nuovi",
+  "mvLabel": "Più visti",
+  "hotLabel": "Top",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "cookies": {}
+}

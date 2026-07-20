@@ -1,0 +1,32 @@
+{
+  "sitetag": "hdporn",
+  "base": "https://www.hdporn.gg",
+  "logo": "https://www.hdporn.gg/apple-touch-icon.png",
+  "newUrl": "https://www.hdporn.gg/latest-updates/{page}/",
+  "mvUrl": "https://www.hdporn.gg/most-popular/{page}/",
+  "hotUrl": "https://www.hdporn.gg/top-rated/{page}/",
+  "searchUrl": "https://www.hdporn.gg/search/{q}/{page}/",
+  "listDiv": "div.item",
+  "linkSelector": "a[href*=/videos/]",
+  "titleSelector": "a[title]",
+  "titleAttr": "title",
+  "imgSelector": "img.thumb",
+  "imgAttr": "data-src",
+  "durationSelector": "span.duration",
+  "durationRegex": "(\\d{1,2}:\\d{2}(?::\\d{2})?)",
+  "previewSelector": "div[data-preview]",
+  "previewAttr": "data-preview",
+  "stream": {
+    "regexes": [],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "newLabel": "Nuovi",
+  "mvLabel": "Più visti",
+  "hotLabel": "Top",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "cookies": {}
+}

@@ -1,0 +1,33 @@
+{
+  "sitetag": "pornhat",
+  "base": "https://www.pornhat.com",
+  "logo": "https://www.pornhat.com/apple-touch-icon.png",
+  "newUrl": "https://www.pornhat.com/{page}/",
+  "mvUrl": "https://www.pornhat.com/most-popular/{page}/",
+  "hotUrl": "https://www.pornhat.com/top-rated/{page}/",
+  "searchUrl": null,
+  "listDiv": "div.item",
+  "linkSelector": "a[href*=/video/]",
+  "titleSelector": "a[title]",
+  "titleAttr": "title",
+  "imgSelector": "img.thumb",
+  "imgAttr": "data-original",
+  "durationSelector": "ul.video-meta li",
+  "durationRegex": "(\\d{1,2}:\\d{2}(?::\\d{2})?)",
+  "previewSelector": "a[data-preview-custom]",
+  "previewAttr": "data-preview-custom",
+  "stream": {
+    "regexes": [],
+    "sourceSelector": "video source.video_Auto",
+    "sourceAttr": "src",
+    "iframeSelector": null,
+    "hls": true
+  },
+  "newLabel": "Nuovi",
+  "mvLabel": "Più visti",
+  "hotLabel": "Top",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "cookies": {}
+}

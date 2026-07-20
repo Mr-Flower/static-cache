@@ -1,0 +1,34 @@
+{
+  "sitetag": "whoreshub",
+  "base": "https://www.whoreshub.com",
+  "logo": "https://favicon.yandex.net/favicon/v2/whoreshub.com?size=120",
+  "newUrl": "https://www.whoreshub.com/latest-updates/{page}/",
+  "mvUrl": "https://www.whoreshub.com/most-popular/{page}/",
+  "hotUrl": "https://www.whoreshub.com/top-rated/{page}/",
+  "searchUrl": "https://www.whoreshub.com/search/{q}/",
+  "listDiv": "div.thumb",
+  "linkSelector": "a[href*=/videos/]",
+  "titleSelector": "a[title]",
+  "titleAttr": "title",
+  "imgSelector": "img",
+  "imgAttr": "data-src",
+  "durationSelector": "span.duration",
+  "previewSelector": "img",
+  "previewAttr": "data-preview",
+  "stream": {
+    "regexes": [
+      "video(?:_alt)?_url\\d*\\s*:\\s*'([^']+)'",
+      "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4/?[^\"'\\s]*)"
+    ],
+    "sourceSelector": "video source",
+    "sourceAttr": "src",
+    "iframeSelector": null
+  },
+  "newLabel": "Nuovi",
+  "mvLabel": "Più visti",
+  "hotLabel": "Top",
+  "searchReplacer": "-",
+  "pageStart": 1,
+  "pageStep": 1,
+  "cookies": {}
+}
