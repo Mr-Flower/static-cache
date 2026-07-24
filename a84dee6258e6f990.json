@@ -24,7 +24,7 @@
     "thumbKey": "thumbURL",
     "durationKey": "duration",
     "durationSeconds": true,
-    "previewKey": "trailerURL",
+    "previewKey": "trailerFallbackUrl",
     "urlMustStartWith": "https://xhamster.com/videos/"
   },
   "cookies": {},
