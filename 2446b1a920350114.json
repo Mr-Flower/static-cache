@@ -5,7 +5,7 @@
   "newUrl": "https://www.whoreshub.com/latest-updates/{page}/",
   "mvUrl": "https://www.whoreshub.com/most-popular/{page}/",
   "hotUrl": "https://www.whoreshub.com/top-rated/{page}/",
-  "searchUrl": "https://www.whoreshub.com/search/{q}/",
+  "searchUrl": "https://www.whoreshub.com/search/{q}/?from_videos={page}",
   "listDiv": "div.thumb",
   "linkSelector": "a[href*=/videos/]",
   "titleSelector": "a[title]",

@@ -8,7 +8,7 @@
   "newLabel": "Latest",
   "mvLabel": "Most Popular",
   "hotLabel": "Top Rated",
-  "searchUrl": "https://www.porntrex.com/search/{q}/",
+  "searchUrl": "https://www.porntrex.com/search/{q}/{page}/",
   "searchReplacer": "+",
   "listDiv": "div.video-item",
   "linkSelector": "a.rotator-screen, p.inf a, a[href*=/video/]",

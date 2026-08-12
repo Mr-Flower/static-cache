@@ -5,7 +5,7 @@
   "newUrl": "https://watchporn.to/latest-updates/{page}/",
   "mvUrl": "https://watchporn.to/most-popular/{page}/",
   "hotUrl": "https://watchporn.to/top-rated/{page}/",
-  "searchUrl": "https://watchporn.to/search/{q}/",
+  "searchUrl": "https://watchporn.to/search/{q}/?from_videos={page}",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/video/]",
   "titleSelector": "span.thumb__title",

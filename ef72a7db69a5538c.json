@@ -8,7 +8,7 @@
   "mvLabel": "Più visti",
   "hotUrl": "https://neporn.com/top-rated/{page}/",
   "hotLabel": "Top",
-  "searchUrl": "https://neporn.com/search/{q}/",
+  "searchUrl": "https://neporn.com/search/{q}/?from_videos={page}",
   "searchReplacer": "-",
   "pageStart": 1,
   "pageStep": 1,

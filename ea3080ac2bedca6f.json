@@ -5,7 +5,7 @@
   "newUrl": "https://shameless.com/latest-updates/{page}/",
   "mvUrl": "https://shameless.com/most-popular/{page}/",
   "hotUrl": "https://shameless.com/top-rated/{page}/",
-  "searchUrl": "https://shameless.com/search/{q}/",
+  "searchUrl": "https://shameless.com/search/{q}/?from_videos={page}",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/videos/]",
   "titleSelector": "a[title]",

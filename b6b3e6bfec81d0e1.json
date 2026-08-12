@@ -5,7 +5,7 @@
   "newUrl": "https://yesporn.vip/latest-updates/{page}/",
   "mvUrl": "https://yesporn.vip/most-popular/{page}/",
   "hotUrl": "https://yesporn.vip/top-rated/{page}/",
-  "searchUrl": "https://yesporn.vip/search/{q}/",
+  "searchUrl": "https://yesporn.vip/search/{q}/?from_videos={page}",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/video/]",
   "titleSelector": "a[title]",
