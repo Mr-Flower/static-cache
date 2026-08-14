@@ -1,0 +1,222 @@
+{
+ "sitetag": "superporn",
+ "base": "https://www.superporn.com",
+ "logo": "https://favicon.yandex.net/favicon/v2/superporn.com?size=120",
+ "newUrl": "https://www.superporn.com/?page={page}",
+ "searchUrl": "https://www.superporn.com/search/{page}?q={q}",
+ "searchReplacer": "+",
+ "listDiv": "div.thumb-video:not(.thumb-categories)",
+ "linkSelector": "a.thumb-duracion[href*=/video/]",
+ "titleSelector": "a.thumb-video__description",
+ "imgSelector": "img",
+ "imgAttr": "data-src",
+ "durationSelector": "span.duracion",
+ "stream": {
+  "regexes": [],
+  "sourceSelector": "video source",
+  "sourceAttr": "src",
+  "iframeSelector": null
+ },
+ "newLabel": "Nuovi",
+ "categories": [
+  {
+   "label": "Amateur",
+   "url": "https://www.superporn.com/amateur/{page}"
+  },
+  {
+   "label": "Anal",
+   "url": "https://www.superporn.com/anal/{page}"
+  },
+  {
+   "label": "Argentinian Porn",
+   "url": "https://www.superporn.com/argentinian-porn/{page}"
+  },
+  {
+   "label": "Asian",
+   "url": "https://www.superporn.com/asian/{page}"
+  },
+  {
+   "label": "BBW",
+   "url": "https://www.superporn.com/bbw/{page}"
+  },
+  {
+   "label": "Babe",
+   "url": "https://www.superporn.com/babe/{page}"
+  },
+  {
+   "label": "Big Ass",
+   "url": "https://www.superporn.com/big-ass/{page}"
+  },
+  {
+   "label": "Big Cock",
+   "url": "https://www.superporn.com/big-cock/{page}"
+  },
+  {
+   "label": "Big tits",
+   "url": "https://www.superporn.com/big-tits/{page}"
+  },
+  {
+   "label": "Blonde",
+   "url": "https://www.superporn.com/blonde/{page}"
+  },
+  {
+   "label": "Blowjob",
+   "url": "https://www.superporn.com/blowjob/{page}"
+  },
+  {
+   "label": "Brazilian Porn",
+   "url": "https://www.superporn.com/brazilian-porn/{page}"
+  },
+  {
+   "label": "British Porn",
+   "url": "https://www.superporn.com/british-porn/{page}"
+  },
+  {
+   "label": "Brother and Sister",
+   "url": "https://www.superporn.com/brother-and-sister/{page}"
+  },
+  {
+   "label": "Brunette",
+   "url": "https://www.superporn.com/brunette/{page}"
+  },
+  {
+   "label": "Cheating",
+   "url": "https://www.superporn.com/cheating/{page}"
+  },
+  {
+   "label": "Creampie",
+   "url": "https://www.superporn.com/creampie/{page}"
+  },
+  {
+   "label": "Double penetration",
+   "url": "https://www.superporn.com/double-penetration/{page}"
+  },
+  {
+   "label": "Dutch Porn",
+   "url": "https://www.superporn.com/dutch-porn/{page}"
+  },
+  {
+   "label": "Ebony",
+   "url": "https://www.superporn.com/ebony/{page}"
+  },
+  {
+   "label": "Female Friendly",
+   "url": "https://www.superporn.com/female-friendly/{page}"
+  },
+  {
+   "label": "French Porn",
+   "url": "https://www.superporn.com/french-porn/{page}"
+  },
+  {
+   "label": "German Porn",
+   "url": "https://www.superporn.com/german-porn/{page}"
+  },
+  {
+   "label": "Hard sex",
+   "url": "https://www.superporn.com/hard-sex/{page}"
+  },
+  {
+   "label": "Homemade",
+   "url": "https://www.superporn.com/homemade/{page}"
+  },
+  {
+   "label": "Interracial",
+   "url": "https://www.superporn.com/interracial/{page}"
+  },
+  {
+   "label": "Italian Porn",
+   "url": "https://www.superporn.com/italian-porn/{page}"
+  },
+  {
+   "label": "Latina",
+   "url": "https://www.superporn.com/latina/{page}"
+  },
+  {
+   "label": "Lesbian",
+   "url": "https://www.superporn.com/lesbian/{page}"
+  },
+  {
+   "label": "MILF",
+   "url": "https://www.superporn.com/milf/{page}"
+  },
+  {
+   "label": "Maid",
+   "url": "https://www.superporn.com/maid/{page}"
+  },
+  {
+   "label": "Massage",
+   "url": "https://www.superporn.com/massage/{page}"
+  },
+  {
+   "label": "Masturbating",
+   "url": "https://www.superporn.com/masturbating/{page}"
+  },
+  {
+   "label": "Mature",
+   "url": "https://www.superporn.com/mature/{page}"
+  },
+  {
+   "label": "Mom",
+   "url": "https://www.superporn.com/mom/{page}"
+  },
+  {
+   "label": "Mom and Son",
+   "url": "https://www.superporn.com/mom-and-son/{page}"
+  },
+  {
+   "label": "Office",
+   "url": "https://www.superporn.com/office/{page}"
+  },
+  {
+   "label": "Orgy",
+   "url": "https://www.superporn.com/orgy/{page}"
+  },
+  {
+   "label": "POV",
+   "url": "https://www.superporn.com/pov/{page}"
+  },
+  {
+   "label": "Public",
+   "url": "https://www.superporn.com/public/{page}"
+  },
+  {
+   "label": "Reality",
+   "url": "https://www.superporn.com/reality/{page}"
+  },
+  {
+   "label": "Redhead",
+   "url": "https://www.superporn.com/redhead/{page}"
+  },
+  {
+   "label": "Sex Toys",
+   "url": "https://www.superporn.com/sex-toys/{page}"
+  },
+  {
+   "label": "Shemale",
+   "url": "https://www.superporn.com/shemale/{page}"
+  },
+  {
+   "label": "Teacher",
+   "url": "https://www.superporn.com/teacher/{page}"
+  },
+  {
+   "label": "Tease",
+   "url": "https://www.superporn.com/tease/{page}"
+  },
+  {
+   "label": "Teen",
+   "url": "https://www.superporn.com/teen/{page}"
+  },
+  {
+   "label": "Threesome",
+   "url": "https://www.superporn.com/threesome/{page}"
+  },
+  {
+   "label": "Vintage",
+   "url": "https://www.superporn.com/vintage/{page}"
+  }
+ ],
+ "pageStart": 1,
+ "pageStep": 1,
+ "cookies": {}
+}
