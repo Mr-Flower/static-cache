@@ -1,0 +1,154 @@
+{
+ "sitetag": "pimpbunny",
+ "base": "https://pimpbunny.com",
+ "logo": "https://pimpbunny.com/static/v2/images/apple-touch/256.png",
+ "newUrl": "https://pimpbunny.com/videos/{page}/?sort_by=post_date",
+ "mvUrl": "https://pimpbunny.com/videos/{page}/?sort_by=video_viewed",
+ "hotUrl": "https://pimpbunny.com/videos/{page}/?sort_by=rating",
+ "searchUrl": "https://pimpbunny.com/search/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&from_videos={page}",
+ "searchReplacer": "+",
+ "pageStart": 1,
+ "pageStep": 1,
+ "listDiv": "div.b6m-video",
+ "linkSelector": "a[href*=/videos/]",
+ "titleSelector": "img[alt]",
+ "titleAttr": "alt",
+ "imgSelector": "img[data-original]",
+ "imgAttr": "data-original",
+ "durationSelector": "div[class*=ui-card-duration]",
+ "durationRegex": "(\\d{1,2}:\\d{2}(?::\\d{2})?)",
+ "previewSelector": "img[data-preview]",
+ "previewAttr": "data-preview",
+ "cookies": {},
+ "stream": {
+  "regexes": [
+   "video(?:_alt)?_url\\d*:\\s*'([^']+\\.mp4[^']*)'",
+   "(https?://[^\"'\\s]*get_file[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+  ],
+  "sourceSelector": "video source",
+  "sourceAttr": "src",
+  "iframeSelector": null
+ },
+ "categories": [
+  {
+   "label": "4K",
+   "url": "https://pimpbunny.com/categories/4k/{page}/"
+  },
+  {
+   "label": "Anal",
+   "url": "https://pimpbunny.com/categories/anal/{page}/"
+  },
+  {
+   "label": "Asian",
+   "url": "https://pimpbunny.com/categories/asian/{page}/"
+  },
+  {
+   "label": "BBC",
+   "url": "https://pimpbunny.com/categories/bbc/{page}/"
+  },
+  {
+   "label": "BDSM",
+   "url": "https://pimpbunny.com/categories/bdsm/{page}/"
+  },
+  {
+   "label": "Big Beautiful Women",
+   "url": "https://pimpbunny.com/categories/big-beautiful-women/{page}/"
+  },
+  {
+   "label": "Big Boobs",
+   "url": "https://pimpbunny.com/categories/big-boobs/{page}/"
+  },
+  {
+   "label": "Bizarre",
+   "url": "https://pimpbunny.com/categories/bizarre-porn/{page}/"
+  },
+  {
+   "label": "Blowjob",
+   "url": "https://pimpbunny.com/categories/blowjob/{page}/"
+  },
+  {
+   "label": "Bunnies",
+   "url": "https://pimpbunny.com/categories/bunnies/{page}/"
+  },
+  {
+   "label": "BWC",
+   "url": "https://pimpbunny.com/categories/bwc/{page}/"
+  },
+  {
+   "label": "Cosplay",
+   "url": "https://pimpbunny.com/categories/cosplay/{page}/"
+  },
+  {
+   "label": "Deep Throat",
+   "url": "https://pimpbunny.com/categories/deep-throat/{page}/"
+  },
+  {
+   "label": "Double Penetration",
+   "url": "https://pimpbunny.com/categories/double-penetration/{page}/"
+  },
+  {
+   "label": "Exclusive",
+   "url": "https://pimpbunny.com/categories/exclusive/{page}/"
+  },
+  {
+   "label": "Feet",
+   "url": "https://pimpbunny.com/categories/feet/{page}/"
+  },
+  {
+   "label": "Fetish",
+   "url": "https://pimpbunny.com/categories/fetish/{page}/"
+  },
+  {
+   "label": "Gang Bang",
+   "url": "https://pimpbunny.com/categories/gang-bang/{page}/"
+  },
+  {
+   "label": "Latina",
+   "url": "https://pimpbunny.com/categories/latina/{page}/"
+  },
+  {
+   "label": "Lesbian",
+   "url": "https://pimpbunny.com/categories/lesbian/{page}/"
+  },
+  {
+   "label": "Masturbation",
+   "url": "https://pimpbunny.com/categories/masturbation/{page}/"
+  },
+  {
+   "label": "MILF",
+   "url": "https://pimpbunny.com/categories/milf/{page}/"
+  },
+  {
+   "label": "Outdoor",
+   "url": "https://pimpbunny.com/categories/outdoor/{page}/"
+  },
+  {
+   "label": "PAWG",
+   "url": "https://pimpbunny.com/categories/pawg/{page}/"
+  },
+  {
+   "label": "Petite",
+   "url": "https://pimpbunny.com/categories/petite/{page}/"
+  },
+  {
+   "label": "Seduction",
+   "url": "https://pimpbunny.com/categories/seduction/{page}/"
+  },
+  {
+   "label": "Sex",
+   "url": "https://pimpbunny.com/categories/sex/{page}/"
+  },
+  {
+   "label": "Striptease",
+   "url": "https://pimpbunny.com/categories/striptease/{page}/"
+  },
+  {
+   "label": "Teen",
+   "url": "https://pimpbunny.com/categories/teen/{page}/"
+  },
+  {
+   "label": "Threesome",
+   "url": "https://pimpbunny.com/categories/threesome/{page}/"
+  }
+ ]
+}
