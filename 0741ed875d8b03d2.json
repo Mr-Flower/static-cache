@@ -24,8 +24,7 @@
   "cookies": {},
   "stream": {
     "regexes": [
-      "video_url:\\s*'([^']+\\.mp4[^']*)'",
-      "video_alt_url:\\s*'([^']+\\.mp4[^']*)'",
+      "video(?:_alt)?_url\\d*:\\s*'([^']+\\.mp4[^']*)'",
       "(https?:\\/\\/[^\"'\\s]*get_file[^\"'\\s]+\\.mp4[^\"'\\s]*)"
     ],
     "sourceSelector": "video source",
