@@ -12,6 +12,12 @@
   "imgSelector": "img.thumb",
   "imgAttr": "data-original",
   "durationSelector": "div.duration",
+  "previewImageTemplate": "https://{id}{n}.jpg",
+  "previewIdSelector": "img.thumb",
+  "previewIdAttr": "data-original",
+  "previewIdRegex": "//(.+/\\d+x\\d+/)",
+  "previewImageCount": 5,
+  "previewCountAttr": "data-cnt",
   "stream": {
     "regexes": [
       "video(?:_alt)?_url\\d*\\s*:\\s*'([^']+)'",
@@ -21,9 +27,6 @@
     "sourceAttr": "src",
     "iframeSelector": null
   },
-  "newLabel": "Nuovi",
-  "mvLabel": "Più visti",
-  "hotLabel": "Top",
   "searchReplacer": "-",
   "pageStart": 1,
   "pageStep": 1,

@@ -3,11 +3,8 @@
   "base": "https://www.fullmovies.xxx",
   "logo": "https://www.fullmovies.xxx/img/favicon/apple-touch-icon.png?v=2.0",
   "newUrl": "https://www.fullmovies.xxx/latest-updates/{page}/",
-  "newLabel": "Nuovi",
   "mvUrl": "https://www.fullmovies.xxx/most-popular/{page}/",
-  "mvLabel": "Più visti",
   "hotUrl": "https://www.fullmovies.xxx/top-rated/{page}/",
-  "hotLabel": "Top",
   "searchUrl": "https://www.fullmovies.xxx/search/{q}/{page}/",
   "searchReplacer": "-",
   "pageStart": 1,
@@ -23,7 +20,7 @@
   "cookies": {},
   "stream": {
     "regexes": [
-      "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4[^\"'\\s]*)",
+      "(https?://[^\"'\\s?]*/get_file/[^\"'\\s?]*\\.mp4/?)",
       "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
       "(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)"
     ],

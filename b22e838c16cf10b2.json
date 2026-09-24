@@ -1,0 +1,284 @@
+{
+ "sitetag": "yuvideos",
+ "base": "https://www.yuvideos.com",
+ "logo": "https://favicon.yandex.net/favicon/v2/yuvideos.com?size=120",
+ "newUrl": "https://www.yuvideos.com/recent/[{page}/]",
+ "mvUrl": "https://www.yuvideos.com/viewed/[{page}/]",
+ "hotUrl": "https://www.yuvideos.com/rated/[{page}/]",
+ "searchUrl": "https://www.yuvideos.com/search/video/?s={q}&page={page}",
+ "searchReplacer": "+",
+ "pageStart": 1,
+ "pageStep": 1,
+ "listDiv": "div.col-lg-10 > div.grid.videos > div.cell.video, div.col-xl-10 > div.grid.videos > div.cell.video",
+ "linkSelector": "a[href]",
+ "titleSelector": null,
+ "titleStripSelector": "",
+ "imgSelector": "img.thumb, img",
+ "imgAttr": "src",
+ "durationSelector": "div.video-duration",
+ "cookies": {},
+ "stream": {
+  "regexes": [
+   "(https?://[^\"'\\s]+\\.mp4\\?[^\"'\\s]*)"
+  ],
+  "sourceSelector": "video source",
+  "sourceAttr": "src",
+  "playerUrl": "https://www.yuvideos.com/embed/{id}/",
+  "playerUrlRegex": "/(\\d+)/"
+ },
+ "previewIdSelector": "img.thumb",
+ "previewIdAttr": "abs:src",
+ "previewIdRegex": "(.*/)[0-9]+\\.jpg",
+ "previewImageTemplate": "{id}{n}.jpg",
+ "previewImageCount": 8,
+ "categories": [
+  {
+   "label": "Solo Porno Italiani",
+   "url": "https://www.yuvideos.com/porno-italiano/[{page}/]"
+  },
+  {
+   "label": "Amatoriale",
+   "url": "https://www.yuvideos.com/amatoriale/[{page}/]"
+  },
+  {
+   "label": "Anale",
+   "url": "https://www.yuvideos.com/anale/[{page}/]"
+  },
+  {
+   "label": "Asiatiche",
+   "url": "https://www.yuvideos.com/asiatiche/[{page}/]"
+  },
+  {
+   "label": "Bionde",
+   "url": "https://www.yuvideos.com/bionde/[{page}/]"
+  },
+  {
+   "label": "Brune/Castane",
+   "url": "https://www.yuvideos.com/brune-castane/[{page}/]"
+  },
+  {
+   "label": "Car Sex",
+   "url": "https://www.yuvideos.com/car-sex/[{page}/]"
+  },
+  {
+   "label": "Cazzi Grossi",
+   "url": "https://www.yuvideos.com/cazzi-grossi/[{page}/]"
+  },
+  {
+   "label": "Ceche",
+   "url": "https://www.yuvideos.com/ceche/[{page}/]"
+  },
+  {
+   "label": "Compilazioni Porno",
+   "url": "https://www.yuvideos.com/compilazioni-porno/[{page}/]"
+  },
+  {
+   "label": "Contenuti esclusivi Italiani",
+   "url": "https://www.yuvideos.com/contenuti-esclusivi-italiani/[{page}/]"
+  },
+  {
+   "label": "Coppie",
+   "url": "https://www.yuvideos.com/coppie/[{page}/]"
+  },
+  {
+   "label": "Cornuti Italiani",
+   "url": "https://www.yuvideos.com/cornuti-italiani/[{page}/]"
+  },
+  {
+   "label": "Cuckold Italiani",
+   "url": "https://www.yuvideos.com/cuckold-italiani/[{page}/]"
+  },
+  {
+   "label": "Culi Sodi",
+   "url": "https://www.yuvideos.com/culi-sodi/[{page}/]"
+  },
+  {
+   "label": "Dialoghi Italiani",
+   "url": "https://www.yuvideos.com/dialoghi-italiani/[{page}/]"
+  },
+  {
+   "label": "Dildo/Vibratori",
+   "url": "https://www.yuvideos.com/dildo-vibratori/[{page}/]"
+  },
+  {
+   "label": "Donne in Carne",
+   "url": "https://www.yuvideos.com/donne-in-carne/[{page}/]"
+  },
+  {
+   "label": "Donne Mature",
+   "url": "https://www.yuvideos.com/donne-mature/[{page}/]"
+  },
+  {
+   "label": "Doppia Penetrazione",
+   "url": "https://www.yuvideos.com/doppia-penetrazione/[{page}/]"
+  },
+  {
+   "label": "Europee",
+   "url": "https://www.yuvideos.com/europee/[{page}/]"
+  },
+  {
+   "label": "Feste",
+   "url": "https://www.yuvideos.com/feste/[{page}/]"
+  },
+  {
+   "label": "Fetish/BDSM",
+   "url": "https://www.yuvideos.com/fetish-bdsm/[{page}/]"
+  },
+  {
+   "label": "Fidanzate",
+   "url": "https://www.yuvideos.com/fidanzate/[{page}/]"
+  },
+  {
+   "label": "Filmini Spy & Guardoni",
+   "url": "https://www.yuvideos.com/filmini-spy-guardoni/[{page}/]"
+  },
+  {
+   "label": "Fisting",
+   "url": "https://www.yuvideos.com/fisting/[{page}/]"
+  },
+  {
+   "label": "GangBang",
+   "url": "https://www.yuvideos.com/gangbang/[{page}/]"
+  },
+  {
+   "label": "Gay/Bisex",
+   "url": "https://www.yuvideos.com/gay-bisex/[{page}/]"
+  },
+  {
+   "label": "Halloween",
+   "url": "https://www.yuvideos.com/halloween/[{page}/]"
+  },
+  {
+   "label": "Hardcore",
+   "url": "https://www.yuvideos.com/hardcore/[{page}/]"
+  },
+  {
+   "label": "InstaGram",
+   "url": "https://www.yuvideos.com/instagram/[{page}/]"
+  },
+  {
+   "label": "Interrazziale",
+   "url": "https://www.yuvideos.com/interrazziale/[{page}/]"
+  },
+  {
+   "label": "Latine",
+   "url": "https://www.yuvideos.com/latine/[{page}/]"
+  },
+  {
+   "label": "Lesbiche",
+   "url": "https://www.yuvideos.com/lesbiche/[{page}/]"
+  },
+  {
+   "label": "Masturbazione",
+   "url": "https://www.yuvideos.com/masturbazione/[{page}/]"
+  },
+  {
+   "label": "Milf",
+   "url": "https://www.yuvideos.com/milf/[{page}/]"
+  },
+  {
+   "label": "Orge",
+   "url": "https://www.yuvideos.com/orge/[{page}/]"
+  },
+  {
+   "label": "Periscope",
+   "url": "https://www.yuvideos.com/periscope/[{page}/]"
+  },
+  {
+   "label": "Personaggi Famosi",
+   "url": "https://www.yuvideos.com/personaggi-famosi/[{page}/]"
+  },
+  {
+   "label": "Pompini",
+   "url": "https://www.yuvideos.com/pompini/[{page}/]"
+  },
+  {
+   "label": "Porno con IA",
+   "url": "https://www.yuvideos.com/porno-con-ia/[{page}/]"
+  },
+  {
+   "label": "Porno HD",
+   "url": "https://www.yuvideos.com/porno-hd/[{page}/]"
+  },
+  {
+   "label": "Porno Social Media",
+   "url": "https://www.yuvideos.com/porno-social-media/[{page}/]"
+  },
+  {
+   "label": "Pornostar",
+   "url": "https://www.yuvideos.com/pornostar/[{page}/]"
+  },
+  {
+   "label": "Ragazze 18-21",
+   "url": "https://www.yuvideos.com/ragazze-18-21/[{page}/]"
+  },
+  {
+   "label": "Ragazze di Colore",
+   "url": "https://www.yuvideos.com/ragazze-di-colore/[{page}/]"
+  },
+  {
+   "label": "Reazioni Umane",
+   "url": "https://www.yuvideos.com/reazioni-umane/[{page}/]"
+  },
+  {
+   "label": "Rosse",
+   "url": "https://www.yuvideos.com/rosse/[{page}/]"
+  },
+  {
+   "label": "Sborrate",
+   "url": "https://www.yuvideos.com/sborrate/[{page}/]"
+  },
+  {
+   "label": "Seghe",
+   "url": "https://www.yuvideos.com/seghe/[{page}/]"
+  },
+  {
+   "label": "Sesso a Tre",
+   "url": "https://www.yuvideos.com/sesso-a-tre/[{page}/]"
+  },
+  {
+   "label": "Esibizionismo Pubblico",
+   "url": "https://www.yuvideos.com/sesso-in-pubblico/[{page}/]"
+  },
+  {
+   "label": "SnapChat",
+   "url": "https://www.yuvideos.com/snapchat/[{page}/]"
+  },
+  {
+   "label": "Squirting",
+   "url": "https://www.yuvideos.com/squirting/[{page}/]"
+  },
+  {
+   "label": "Suicide Girls",
+   "url": "https://www.yuvideos.com/suicide-girls/[{page}/]"
+  },
+  {
+   "label": "TeleGram",
+   "url": "https://www.yuvideos.com/telegram/[{page}/]"
+  },
+  {
+   "label": "Tette Grosse",
+   "url": "https://www.yuvideos.com/tette-grosse/[{page}/]"
+  },
+  {
+   "label": "Tette Piccole",
+   "url": "https://www.yuvideos.com/tette-piccole/[{page}/]"
+  },
+  {
+   "label": "Transessuali",
+   "url": "https://www.yuvideos.com/transessuali/[{page}/]"
+  },
+  {
+   "label": "WebCam",
+   "url": "https://www.yuvideos.com/webcam/[{page}/]"
+  },
+  {
+   "label": "WhatsApp",
+   "url": "https://www.yuvideos.com/whatsapp/[{page}/]"
+  },
+  {
+   "label": "YouTubers",
+   "url": "https://www.yuvideos.com/youtubers-porno/[{page}/]"
+  }
+ ]
+}

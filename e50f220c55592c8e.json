@@ -8,15 +8,18 @@
   "browseTabs": [
     {
       "label": "Nuovi",
-      "url": "https://www.eporner.com/{page}/"
+      "url": "https://www.eporner.com/{page}/",
+      "labelKey": "new"
     },
     {
       "label": "Più visti",
-      "url": "https://www.eporner.com/most-viewed/{page}/"
+      "url": "https://www.eporner.com/most-viewed/{page}/",
+      "labelKey": "popular"
     },
     {
       "label": "Migliori",
-      "url": "https://www.eporner.com/top-rated/{page}/"
+      "url": "https://www.eporner.com/top-rated/{page}/",
+      "labelKey": "best"
     },
     {
       "label": "Italia",

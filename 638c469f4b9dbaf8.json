@@ -3,9 +3,8 @@
   "base": "https://www.solopornoitaliani.xxx",
   "logo": "https://favicon.yandex.net/favicon/v2/solopornoitaliani.xxx?size=120",
   "newUrl": "https://www.solopornoitaliani.xxx/video/{page}/",
-  "searchUrl": "https://www.solopornoitaliani.xxx/search/{q}/?from={page}",
+  "searchUrl": "https://www.solopornoitaliani.xxx/search/{q}/?from_videos={page}",
   "searchReplacer": "-",
-  "newLabel": "Nuovi",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/video/]",
   "titleSelector": "strong.title",
@@ -13,6 +12,11 @@
   "imgSelector": "img.thumb, img",
   "imgAttr": "src",
   "durationSelector": "div.duration",
+  "previewImageTemplate": "https://{id}{n}.jpg",
+  "previewIdSelector": "img.thumb",
+  "previewIdAttr": "src",
+  "previewIdRegex": "//(.+/\\d+x\\d+/)",
+  "previewImageCount": 10,
   "cookies": {},
   "stream": {
     "regexes": [

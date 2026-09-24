@@ -23,9 +23,6 @@
     "mirrorHostRegex": "nvs(\\d+)\\.porndd\\.com",
     "mirrorHostMax": 10
   },
-  "newLabel": "Nuovi",
-  "mvLabel": "Più visti",
-  "hotLabel": "Top",
   "searchReplacer": "-",
   "pageStart": 1,
   "pageStep": 1,

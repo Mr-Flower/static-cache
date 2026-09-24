@@ -8,15 +8,18 @@
   "browseTabs": [
     {
       "label": "Nuovi",
-      "url": "https://www.xnxx.com/todays-selection/{page}"
+      "url": "https://www.xnxx.com/todays-selection/{page}",
+      "labelKey": "new"
     },
     {
       "label": "Popolari",
-      "url": "https://www.xnxx.com/hits/{page}"
+      "url": "https://www.xnxx.com/hits/{page}",
+      "labelKey": "popular"
     },
     {
       "label": "Del mese",
-      "url": "https://www.xnxx.com/best/{page}"
+      "url": "https://www.xnxx.com/best/{page}",
+      "labelKey": "month"
     }
   ],
   "listDiv": "div.thumb-block",

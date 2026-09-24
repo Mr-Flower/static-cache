@@ -23,9 +23,6 @@
     "sourceAttr": "src",
     "iframeSelector": null
   },
-  "newLabel": "Nuovi",
-  "mvLabel": "Più visti",
-  "hotLabel": "Top",
   "searchReplacer": "-",
   "pageStart": 1,
   "pageStep": 1,

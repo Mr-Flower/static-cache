@@ -3,6 +3,7 @@
   "base": "https://www.youporn.com",
   "logo": "https://ea.ypncdn.com/e9b74454875ac2be3ea4255b726e72c75f6940ac/youporn/cdn_assets/images/favicons/apple-touch-icon-152x152.png?v=e9b74454875ac2be3ea4255b726e72c75f6940ac",
   "newUrl": "https://www.youporn.com/browse/time/?page={page}",
+  "mvUrl": "https://www.youporn.com/browse/views/?page={page}",
   "hotUrl": "https://www.youporn.com/?page={page}",
   "searchUrl": "https://www.youporn.com/search/?query={q}&page={page}",
   "searchReplacer": "+",

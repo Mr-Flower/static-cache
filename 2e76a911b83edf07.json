@@ -3,9 +3,10 @@
   "base": "https://notfans.com",
   "logo": "https://favicon.yandex.net/favicon/v2/notfans.com?size=120",
   "newUrl": "https://notfans.com/latest-updates/{page}/",
-  "searchUrl": "https://notfans.com/search/{q}/?from={page}",
+  "mvUrl": "https://notfans.com/most-popular/{page}/",
+  "hotUrl": "https://notfans.com/top-rated/{page}/",
+  "searchUrl": "https://notfans.com/search/{q}/?from_videos={page}",
   "searchReplacer": "-",
-  "newLabel": "Latest",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/videos/]",
   "titleSelector": "strong.title",
@@ -16,8 +17,8 @@
   "cookies": {},
   "stream": {
     "regexes": [
+      "video(?:_alt)?_url\\d*\\s*:\\s*'(https?://[^']+\\.mp4[^']*)'",
       "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4/)\\?download",
-      "video_url\\s*:\\s*'(?:function/0/)?(https?://[^']+\\.mp4[^']*)'",
       "(https?:[^\"'\\s]+\\.m3u8[^\"'\\s]*)",
       "(https?:[^\"'\\s]+\\.mp4[^\"'\\s]*)"
     ],

@@ -7,11 +7,13 @@
   "browseTabs": [
     {
       "label": "Nuove aggiunte",
-      "url": "https://www.hentaisaturn.tv/newest"
+      "url": "https://www.hentaisaturn.tv/newest",
+      "labelKey": "new"
     },
     {
       "label": "In corso",
-      "url": "https://www.hentaisaturn.tv/ongoing"
+      "url": "https://www.hentaisaturn.tv/ongoing",
+      "labelKey": "ongoing"
     },
     {
       "label": "A-Z",

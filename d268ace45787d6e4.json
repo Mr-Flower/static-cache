@@ -11,13 +11,11 @@
   "categoryReplacer": "-",
   "pageStart": 0,
   "pageStep": 20,
-  "newLabel": "Nuovi",
-  "mvLabel": "Più visti",
-  "hotLabel": "Orgasmic",
   "browseTabs": [
     {
       "label": "Nuovi",
-      "url": "https://sxyprn.com/blog/all/{page}.html?sm=latest"
+      "url": "https://sxyprn.com/blog/all/{page}.html?sm=latest",
+      "labelKey": "new"
     },
     {
       "label": "Home",
@@ -25,7 +23,8 @@
     },
     {
       "label": "Più visti",
-      "url": "https://sxyprn.com/blog/all/{page}.html?sm=views"
+      "url": "https://sxyprn.com/blog/all/{page}.html?sm=views",
+      "labelKey": "popular"
     },
     {
       "label": "Orgasmic",

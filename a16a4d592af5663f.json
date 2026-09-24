@@ -4,8 +4,6 @@
   "logo": "https://www.tnaflix.com/assets/img/favicon/tnaflix/android-icon-192x192.png",
   "newUrl": "https://www.tnaflix.com/new/{page}/",
   "hotUrl": "https://www.tnaflix.com/toprated/{page}/",
-  "newLabel": "New",
-  "hotLabel": "Top Rated",
   "searchUrl": "https://www.tnaflix.com/search.php?what={q}&page={page}",
   "searchReplacer": "+",
   "listDiv": "div[data-vid]",

@@ -9,9 +9,6 @@
   "searchUrl": "https://brazz-new.xyz/en/search/brazz-new/?s={q}",
   "searchReplacer": "+",
   "categoryReplacer": "-",
-  "newLabel": "Nuovi",
-  "mvLabel": "Più visti",
-  "hotLabel": "Popolari",
   "listDiv": "article.loop-video",
   "linkSelector": "a[href*=/video/]",
   "titleSelector": null,
@@ -22,6 +19,7 @@
   "previewApiCodeAttr": "data-post-id",
   "cookies": {},
   "forceWebView": true,
+  "requiresHttp2": true,
   "stream": {
     "regexes": [
       "src:\\s*\"([^\"]*m3u8\\.php\\?id=\\d+[^\"]*)\"",

@@ -11,13 +11,17 @@
  "imgSelector": "img",
  "imgAttr": "data-src",
  "durationSelector": "span.duracion",
+ "previewImageTemplate": "https://{id}thumbs_000{n}.jpg",
+ "previewIdSelector": "img",
+ "previewIdAttr": "data-src",
+ "previewIdRegex": "//(.+/thumbs/)",
+ "previewImageCount": 9,
  "stream": {
   "regexes": [],
   "sourceSelector": "video source",
   "sourceAttr": "src",
   "iframeSelector": null
  },
- "newLabel": "Nuovi",
  "categories": [
   {
    "label": "Amateur",

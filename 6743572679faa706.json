@@ -5,7 +5,7 @@
   "newUrl": "https://www.fpo.xxx/new-1/{page}/",
   "mvUrl": "https://www.fpo.xxx/popular-2/{page}/",
   "hotUrl": "https://www.fpo.xxx/top-2/{page}/",
-  "searchUrl": "https://www.fpo.xxx/search/{q}/{page}/",
+  "searchUrl": "https://www.fpo.xxx/search/{q}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&from_videos={page}",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/video/]",
   "titleSelector": "strong.title",
@@ -23,9 +23,6 @@
     "sourceAttr": "src",
     "iframeSelector": null
   },
-  "newLabel": "Nuovi",
-  "mvLabel": "Più visti",
-  "hotLabel": "Top",
   "searchReplacer": "-",
   "pageStart": 1,
   "pageStep": 1,
