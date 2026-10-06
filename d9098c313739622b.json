@@ -5,7 +5,8 @@
   "newUrl": "https://www.xmegadrive.com/latest-updates/{page}/",
   "mvUrl": "https://www.xmegadrive.com/most-popular/{page}/",
   "hotUrl": "https://www.xmegadrive.com/top-rated/{page}/",
-  "searchUrl": "https://www.xmegadrive.com/search/{q}/",
+  "searchUrl": "https://www.xmegadrive.com/search/{q}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&from_videos={page}",
+  "searchMvUrl": "https://www.xmegadrive.com/search/{q}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&sort_by=video_viewed&from_videos={page}",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/videos/]",
   "titleSelector": "strong.title",
@@ -25,10 +26,133 @@
     ],
     "sourceSelector": "video source",
     "sourceAttr": "src",
+    "timeoutSeconds": 30,
     "iframeSelector": null
   },
   "searchReplacer": "-",
   "pageStart": 1,
   "pageStep": 1,
-  "cookies": {}
+  "cookies": {},
+  "categories": [
+    {
+      "label": "Anal",
+      "url": "https://www.xmegadrive.com/categories/anal/{page}/"
+    },
+    {
+      "label": "Anal Fisting",
+      "url": "https://www.xmegadrive.com/categories/anal-fisting/{page}/"
+    },
+    {
+      "label": "BBW",
+      "url": "https://www.xmegadrive.com/categories/bbw/{page}/"
+    },
+    {
+      "label": "BDSM",
+      "url": "https://www.xmegadrive.com/categories/bdsm/{page}/"
+    },
+    {
+      "label": "Big Dildos",
+      "url": "https://www.xmegadrive.com/categories/big-dildos/{page}/"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://www.xmegadrive.com/categories/bondage/{page}/"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.xmegadrive.com/categories/bukkake/{page}/"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.xmegadrive.com/categories/compilation/{page}/"
+    },
+    {
+      "label": "DAP",
+      "url": "https://www.xmegadrive.com/categories/dap/{page}/"
+    },
+    {
+      "label": "DP",
+      "url": "https://www.xmegadrive.com/categories/dp/{page}/"
+    },
+    {
+      "label": "Feet",
+      "url": "https://www.xmegadrive.com/categories/feet/{page}/"
+    },
+    {
+      "label": "FemDom",
+      "url": "https://www.xmegadrive.com/categories/femdom/{page}/"
+    },
+    {
+      "label": "FootJob",
+      "url": "https://www.xmegadrive.com/categories/footjob/{page}/"
+    },
+    {
+      "label": "GangBang",
+      "url": "https://www.xmegadrive.com/categories/gangbang/{page}/"
+    },
+    {
+      "label": "Gay",
+      "url": "https://www.xmegadrive.com/categories/gay/{page}/"
+    },
+    {
+      "label": "Hairy",
+      "url": "https://www.xmegadrive.com/categories/hairy/{page}/"
+    },
+    {
+      "label": "HandJob",
+      "url": "https://www.xmegadrive.com/categories/handjob/{page}/"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.xmegadrive.com/categories/hardcore/{page}/"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://www.xmegadrive.com/categories/interracial/{page}/"
+    },
+    {
+      "label": "JAV",
+      "url": "https://www.xmegadrive.com/categories/jav/{page}/"
+    },
+    {
+      "label": "Latex",
+      "url": "https://www.xmegadrive.com/categories/latex/{page}/"
+    },
+    {
+      "label": "Leak",
+      "url": "https://www.xmegadrive.com/categories/leak/{page}/"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://www.xmegadrive.com/categories/lesbian/{page}/"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.xmegadrive.com/categories/mature/{page}/"
+    },
+    {
+      "label": "Milf",
+      "url": "https://www.xmegadrive.com/categories/milf/{page}/"
+    },
+    {
+      "label": "Old and Young",
+      "url": "https://www.xmegadrive.com/categories/old-and-young/{page}/"
+    },
+    {
+      "label": "Pissing",
+      "url": "https://www.xmegadrive.com/categories/pissing/{page}/"
+    },
+    {
+      "label": "Pregnant",
+      "url": "https://www.xmegadrive.com/categories/pregnant/{page}/"
+    },
+    {
+      "label": "Pussy Fisting",
+      "url": "https://www.xmegadrive.com/categories/pussy-fisting/{page}/"
+    },
+    {
+      "label": "Shemales",
+      "url": "https://www.xmegadrive.com/categories/shemales/{page}/"
+    }
+  ]
 }

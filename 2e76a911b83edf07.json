@@ -14,6 +14,12 @@
   "imgSelector": "img.thumb, img",
   "imgAttr": "src",
   "durationSelector": null,
+  "previewImageTemplate": "https://{id}{n}.jpg",
+  "previewIdSelector": "img.thumb",
+  "previewIdAttr": "src",
+  "previewIdRegex": "//(.+/\\d+x\\d+/)",
+  "previewImageCount": 5,
+  "previewCountAttr": "data-cnt",
   "cookies": {},
   "stream": {
     "regexes": [
@@ -24,6 +30,7 @@
     ],
     "sourceSelector": "video source",
     "sourceAttr": "src",
+    "timeoutSeconds": 30,
     "iframeSelector": null
   },
   "disablePreview": true

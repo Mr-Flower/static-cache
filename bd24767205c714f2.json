@@ -5,7 +5,7 @@
   "newUrl": "https://porndd.com/latest-updates/{page}/",
   "mvUrl": "https://porndd.com/most-popular/{page}/",
   "hotUrl": "https://porndd.com/top-rated/{page}/",
-  "searchUrl": "https://porndd.com/search/{q}/",
+  "searchUrl": "https://porndd.com/search/{q}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&from_videos={page}",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/video/]",
   "titleSelector": "strong.title",
@@ -26,5 +26,127 @@
   "searchReplacer": "-",
   "pageStart": 1,
   "pageStep": 1,
-  "cookies": {}
+  "cookies": {},
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://porndd.com/categories/amateur/{page}/"
+    },
+    {
+      "label": "Anal",
+      "url": "https://porndd.com/categories/anal/{page}/"
+    },
+    {
+      "label": "Asian",
+      "url": "https://porndd.com/categories/asian/{page}/"
+    },
+    {
+      "label": "ASMR",
+      "url": "https://porndd.com/categories/asmr/{page}/"
+    },
+    {
+      "label": "B/G",
+      "url": "https://porndd.com/categories/b-g/{page}/"
+    },
+    {
+      "label": "BBC",
+      "url": "https://porndd.com/categories/bbc/{page}/"
+    },
+    {
+      "label": "BBW",
+      "url": "https://porndd.com/categories/bbw/{page}/"
+    },
+    {
+      "label": "BGG",
+      "url": "https://porndd.com/categories/bgg/{page}/"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://porndd.com/categories/big-ass/{page}/"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://porndd.com/categories/big-dick/{page}/"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://porndd.com/categories/big-tits/{page}/"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://porndd.com/categories/blonde/{page}/"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://porndd.com/categories/blowjob/{page}/"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://porndd.com/categories/brunette/{page}/"
+    },
+    {
+      "label": "Cosplay",
+      "url": "https://porndd.com/categories/cosplay/{page}/"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://porndd.com/categories/creampie/{page}/"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://porndd.com/categories/cumshot/{page}/"
+    },
+    {
+      "label": "Ear Licking",
+      "url": "https://porndd.com/categories/ear-licking/{page}/"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://porndd.com/categories/fetish/{page}/"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://porndd.com/categories/fingering/{page}/"
+    },
+    {
+      "label": "Gloryhole",
+      "url": "https://porndd.com/categories/gloryhole/{page}/"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://porndd.com/categories/handjob/{page}/"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://porndd.com/categories/hardcore/{page}/"
+    },
+    {
+      "label": "HD Porn 1080p",
+      "url": "https://porndd.com/categories/hd-porn-1080p/{page}/"
+    },
+    {
+      "label": "HD Sex",
+      "url": "https://porndd.com/categories/hd-sex/{page}/"
+    },
+    {
+      "label": "Homemade",
+      "url": "https://porndd.com/categories/homemade/{page}/"
+    },
+    {
+      "label": "HQ Porn",
+      "url": "https://porndd.com/categories/hq-porn/{page}/"
+    },
+    {
+      "label": "Indian",
+      "url": "https://porndd.com/categories/indian/{page}/"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://porndd.com/categories/japanese/{page}/"
+    },
+    {
+      "label": "JOI",
+      "url": "https://porndd.com/categories/joi/{page}/"
+    }
+  ]
 }

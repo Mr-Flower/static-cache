@@ -6,7 +6,8 @@
   "mvUrl": "https://xhamster.com/most-viewed/{page}",
   "hotUrl": "https://xhamster.com/best/weekly/{page}",
   "searchUrl": "https://xhamster.com/search/{q}?page={page}",
-  "searchReplacer": "-",
+  "searchMvUrl": "https://xhamster.com/search/{q}?sort=views&page={page}",
+  "searchReplacer": "+",
   "categoryReplacer": "-",
   "listDiv": "div.video-thumb",
   "linkSelector": "a[href*=/videos/]",
@@ -35,6 +36,7 @@
     ],
     "sourceSelector": "video source",
     "sourceAttr": "src",
+    "hostRegex": "xhcdn\\.com$",
     "iframeSelector": null
   },
   "categories": [

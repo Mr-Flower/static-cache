@@ -5,7 +5,7 @@
   "newUrl": "https://www.youcrazyx.com/?page={page}",
   "mvUrl": "https://www.youcrazyx.com/most-viewed/?page={page}",
   "hotUrl": "https://www.youcrazyx.com/top-rated/?page={page}",
-  "searchUrl": "https://www.youcrazyx.com/search/{q}/",
+  "searchUrl": "https://www.youcrazyx.com/search/{q}/[page{page}.html]",
   "listDiv": "div.well",
   "linkSelector": "a.video-link[href*=/video/]",
   "titleSelector": "span.video-title",

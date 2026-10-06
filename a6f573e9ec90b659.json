@@ -2,272 +2,272 @@
   "sitetag": "hentaisaturn",
   "base": "https://www.hentaisaturn.tv",
   "logo": "https://www.hentaisaturn.tv/assets/img/favicon/web-app-manifest-512x512.png",
-  "searchUrl": "https://www.hentaisaturn.tv/filter?key={q}",
+  "searchUrl": "https://www.hentaisaturn.tv/filter?key={q}&page={page}",
   "searchReplacer": "+",
   "browseTabs": [
     {
       "label": "Nuove aggiunte",
-      "url": "https://www.hentaisaturn.tv/newest",
+      "url": "https://www.hentaisaturn.tv/newest/{page}",
       "labelKey": "new"
     },
     {
       "label": "In corso",
-      "url": "https://www.hentaisaturn.tv/ongoing",
+      "url": "https://www.hentaisaturn.tv/ongoing/{page}",
       "labelKey": "ongoing"
     },
     {
       "label": "A-Z",
-      "url": "https://www.hentaisaturn.tv/az-list"
+      "url": "https://www.hentaisaturn.tv/az-list/{page}"
     }
   ],
   "categories": [
     {
       "label": "3D",
-      "url": "https://www.hentaisaturn.tv/filter?categories=1"
+      "url": "https://www.hentaisaturn.tv/filter?categories=1&page={page}"
     },
     {
       "label": "Ahegao",
-      "url": "https://www.hentaisaturn.tv/filter?categories=2"
+      "url": "https://www.hentaisaturn.tv/filter?categories=2&page={page}"
     },
     {
       "label": "Anal",
-      "url": "https://www.hentaisaturn.tv/filter?categories=3"
+      "url": "https://www.hentaisaturn.tv/filter?categories=3&page={page}"
     },
     {
       "label": "BDSM",
-      "url": "https://www.hentaisaturn.tv/filter?categories=4"
+      "url": "https://www.hentaisaturn.tv/filter?categories=4&page={page}"
     },
     {
       "label": "Big Boobs",
-      "url": "https://www.hentaisaturn.tv/filter?categories=5"
+      "url": "https://www.hentaisaturn.tv/filter?categories=5&page={page}"
     },
     {
       "label": "Blow Job",
-      "url": "https://www.hentaisaturn.tv/filter?categories=6"
+      "url": "https://www.hentaisaturn.tv/filter?categories=6&page={page}"
     },
     {
       "label": "Bondage",
-      "url": "https://www.hentaisaturn.tv/filter?categories=7"
+      "url": "https://www.hentaisaturn.tv/filter?categories=7&page={page}"
     },
     {
       "label": "Boob Job",
-      "url": "https://www.hentaisaturn.tv/filter?categories=8"
+      "url": "https://www.hentaisaturn.tv/filter?categories=8&page={page}"
     },
     {
       "label": "Censored",
-      "url": "https://www.hentaisaturn.tv/filter?categories=9"
+      "url": "https://www.hentaisaturn.tv/filter?categories=9&page={page}"
     },
     {
       "label": "Comedy",
-      "url": "https://www.hentaisaturn.tv/filter?categories=10"
+      "url": "https://www.hentaisaturn.tv/filter?categories=10&page={page}"
     },
     {
       "label": "Cosplay",
-      "url": "https://www.hentaisaturn.tv/filter?categories=11"
+      "url": "https://www.hentaisaturn.tv/filter?categories=11&page={page}"
     },
     {
       "label": "Creampie",
-      "url": "https://www.hentaisaturn.tv/filter?categories=12"
+      "url": "https://www.hentaisaturn.tv/filter?categories=12&page={page}"
     },
     {
       "label": "Dark Skin",
-      "url": "https://www.hentaisaturn.tv/filter?categories=13"
+      "url": "https://www.hentaisaturn.tv/filter?categories=13&page={page}"
     },
     {
       "label": "Facial",
-      "url": "https://www.hentaisaturn.tv/filter?categories=14"
+      "url": "https://www.hentaisaturn.tv/filter?categories=14&page={page}"
     },
     {
       "label": "Fantasy",
-      "url": "https://www.hentaisaturn.tv/filter?categories=15"
+      "url": "https://www.hentaisaturn.tv/filter?categories=15&page={page}"
     },
     {
       "label": "Filmed",
-      "url": "https://www.hentaisaturn.tv/filter?categories=16"
+      "url": "https://www.hentaisaturn.tv/filter?categories=16&page={page}"
     },
     {
       "label": "Foot Job",
-      "url": "https://www.hentaisaturn.tv/filter?categories=17"
+      "url": "https://www.hentaisaturn.tv/filter?categories=17&page={page}"
     },
     {
       "label": "Futanari",
-      "url": "https://www.hentaisaturn.tv/filter?categories=18"
+      "url": "https://www.hentaisaturn.tv/filter?categories=18&page={page}"
     },
     {
       "label": "Gangbang",
-      "url": "https://www.hentaisaturn.tv/filter?categories=19"
+      "url": "https://www.hentaisaturn.tv/filter?categories=19&page={page}"
     },
     {
       "label": "Glasses",
-      "url": "https://www.hentaisaturn.tv/filter?categories=20"
+      "url": "https://www.hentaisaturn.tv/filter?categories=20&page={page}"
     },
     {
       "label": "Hand Job",
-      "url": "https://www.hentaisaturn.tv/filter?categories=21"
+      "url": "https://www.hentaisaturn.tv/filter?categories=21&page={page}"
     },
     {
       "label": "Harem",
-      "url": "https://www.hentaisaturn.tv/filter?categories=22"
+      "url": "https://www.hentaisaturn.tv/filter?categories=22&page={page}"
     },
     {
       "label": "Horror",
-      "url": "https://www.hentaisaturn.tv/filter?categories=25"
+      "url": "https://www.hentaisaturn.tv/filter?categories=25&page={page}"
     },
     {
       "label": "Incest",
-      "url": "https://www.hentaisaturn.tv/filter?categories=26"
+      "url": "https://www.hentaisaturn.tv/filter?categories=26&page={page}"
     },
     {
       "label": "Inflation",
-      "url": "https://www.hentaisaturn.tv/filter?categories=27"
+      "url": "https://www.hentaisaturn.tv/filter?categories=27&page={page}"
     },
     {
       "label": "Lactation",
-      "url": "https://www.hentaisaturn.tv/filter?categories=29"
+      "url": "https://www.hentaisaturn.tv/filter?categories=29&page={page}"
     },
     {
       "label": "Loli",
-      "url": "https://www.hentaisaturn.tv/filter?categories=30"
+      "url": "https://www.hentaisaturn.tv/filter?categories=30&page={page}"
     },
     {
       "label": "Maid",
-      "url": "https://www.hentaisaturn.tv/filter?categories=31"
+      "url": "https://www.hentaisaturn.tv/filter?categories=31&page={page}"
     },
     {
       "label": "Masturbation",
-      "url": "https://www.hentaisaturn.tv/filter?categories=32"
+      "url": "https://www.hentaisaturn.tv/filter?categories=32&page={page}"
     },
     {
       "label": "Milf",
-      "url": "https://www.hentaisaturn.tv/filter?categories=33"
+      "url": "https://www.hentaisaturn.tv/filter?categories=33&page={page}"
     },
     {
       "label": "Mind Break",
-      "url": "https://www.hentaisaturn.tv/filter?categories=34"
+      "url": "https://www.hentaisaturn.tv/filter?categories=34&page={page}"
     },
     {
       "label": "Mind Control",
-      "url": "https://www.hentaisaturn.tv/filter?categories=35"
+      "url": "https://www.hentaisaturn.tv/filter?categories=35&page={page}"
     },
     {
       "label": "Monster",
-      "url": "https://www.hentaisaturn.tv/filter?categories=36"
+      "url": "https://www.hentaisaturn.tv/filter?categories=36&page={page}"
     },
     {
       "label": "NTR",
-      "url": "https://www.hentaisaturn.tv/filter?categories=37"
+      "url": "https://www.hentaisaturn.tv/filter?categories=37&page={page}"
     },
     {
       "label": "Nurse",
-      "url": "https://www.hentaisaturn.tv/filter?categories=38"
+      "url": "https://www.hentaisaturn.tv/filter?categories=38&page={page}"
     },
     {
       "label": "Orgy",
-      "url": "https://www.hentaisaturn.tv/filter?categories=39"
+      "url": "https://www.hentaisaturn.tv/filter?categories=39&page={page}"
     },
     {
       "label": "Plot",
-      "url": "https://www.hentaisaturn.tv/filter?categories=40"
+      "url": "https://www.hentaisaturn.tv/filter?categories=40&page={page}"
     },
     {
       "label": "POV",
-      "url": "https://www.hentaisaturn.tv/filter?categories=41"
+      "url": "https://www.hentaisaturn.tv/filter?categories=41&page={page}"
     },
     {
       "label": "Pregnant",
-      "url": "https://www.hentaisaturn.tv/filter?categories=42"
+      "url": "https://www.hentaisaturn.tv/filter?categories=42&page={page}"
     },
     {
       "label": "Public Sex",
-      "url": "https://www.hentaisaturn.tv/filter?categories=43"
+      "url": "https://www.hentaisaturn.tv/filter?categories=43&page={page}"
     },
     {
       "label": "Rape",
-      "url": "https://www.hentaisaturn.tv/filter?categories=44"
+      "url": "https://www.hentaisaturn.tv/filter?categories=44&page={page}"
     },
     {
       "label": "Reverse Rape",
-      "url": "https://www.hentaisaturn.tv/filter?categories=45"
+      "url": "https://www.hentaisaturn.tv/filter?categories=45&page={page}"
     },
     {
       "label": "Rimjob",
-      "url": "https://www.hentaisaturn.tv/filter?categories=46"
+      "url": "https://www.hentaisaturn.tv/filter?categories=46&page={page}"
     },
     {
       "label": "Scat",
-      "url": "https://www.hentaisaturn.tv/filter?categories=48"
+      "url": "https://www.hentaisaturn.tv/filter?categories=48&page={page}"
     },
     {
       "label": "School Girl",
-      "url": "https://www.hentaisaturn.tv/filter?categories=49"
+      "url": "https://www.hentaisaturn.tv/filter?categories=49&page={page}"
     },
     {
       "label": "Shota",
-      "url": "https://www.hentaisaturn.tv/filter?categories=51"
+      "url": "https://www.hentaisaturn.tv/filter?categories=51&page={page}"
     },
     {
       "label": "Softcore",
-      "url": "https://www.hentaisaturn.tv/filter?categories=52"
+      "url": "https://www.hentaisaturn.tv/filter?categories=52&page={page}"
     },
     {
       "label": "Swimsuit",
-      "url": "https://www.hentaisaturn.tv/filter?categories=53"
+      "url": "https://www.hentaisaturn.tv/filter?categories=53&page={page}"
     },
     {
       "label": "Teacher",
-      "url": "https://www.hentaisaturn.tv/filter?categories=54"
+      "url": "https://www.hentaisaturn.tv/filter?categories=54&page={page}"
     },
     {
       "label": "Tentacle",
-      "url": "https://www.hentaisaturn.tv/filter?categories=55"
+      "url": "https://www.hentaisaturn.tv/filter?categories=55&page={page}"
     },
     {
       "label": "Threesome",
-      "url": "https://www.hentaisaturn.tv/filter?categories=56"
+      "url": "https://www.hentaisaturn.tv/filter?categories=56&page={page}"
     },
     {
       "label": "Toys",
-      "url": "https://www.hentaisaturn.tv/filter?categories=57"
+      "url": "https://www.hentaisaturn.tv/filter?categories=57&page={page}"
     },
     {
       "label": "Trap",
-      "url": "https://www.hentaisaturn.tv/filter?categories=58"
+      "url": "https://www.hentaisaturn.tv/filter?categories=58&page={page}"
     },
     {
       "label": "Tsundere",
-      "url": "https://www.hentaisaturn.tv/filter?categories=59"
+      "url": "https://www.hentaisaturn.tv/filter?categories=59&page={page}"
     },
     {
       "label": "Ugly Bastard",
-      "url": "https://www.hentaisaturn.tv/filter?categories=60"
+      "url": "https://www.hentaisaturn.tv/filter?categories=60&page={page}"
     },
     {
       "label": "Uncensored",
-      "url": "https://www.hentaisaturn.tv/filter?categories=61"
+      "url": "https://www.hentaisaturn.tv/filter?categories=61&page={page}"
     },
     {
       "label": "Vanilla",
-      "url": "https://www.hentaisaturn.tv/filter?categories=62"
+      "url": "https://www.hentaisaturn.tv/filter?categories=62&page={page}"
     },
     {
       "label": "Virgin",
-      "url": "https://www.hentaisaturn.tv/filter?categories=63"
+      "url": "https://www.hentaisaturn.tv/filter?categories=63&page={page}"
     },
     {
       "label": "Watersports",
-      "url": "https://www.hentaisaturn.tv/filter?categories=64"
+      "url": "https://www.hentaisaturn.tv/filter?categories=64&page={page}"
     },
     {
       "label": "X-Ray",
-      "url": "https://www.hentaisaturn.tv/filter?categories=65"
+      "url": "https://www.hentaisaturn.tv/filter?categories=65&page={page}"
     },
     {
       "label": "Yaoi",
-      "url": "https://www.hentaisaturn.tv/filter?categories=66"
+      "url": "https://www.hentaisaturn.tv/filter?categories=66&page={page}"
     },
     {
       "label": "Yuri",
-      "url": "https://www.hentaisaturn.tv/filter?categories=67"
+      "url": "https://www.hentaisaturn.tv/filter?categories=67&page={page}"
     }
   ],
   "listDiv": "a.hs-card[href*=/hentai/]",

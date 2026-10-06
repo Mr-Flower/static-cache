@@ -1,0 +1,306 @@
+{
+ "sitetag": "heavyfetish",
+ "base": "https://heavyfetish.com",
+ "logo": "https://heavyfetish.com/static/images/favicon/favicon-192x192.png",
+ "newUrl": "https://heavyfetish.com/fetish-videos/{page}/?sort_by=post_date",
+ "mvUrl": "https://heavyfetish.com/fetish-videos/{page}/?sort_by=video_viewed",
+ "hotUrl": "https://heavyfetish.com/fetish-videos/{page}/?sort_by=rating",
+ "searchUrl": "https://heavyfetish.com/search/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&from_videos={page}",
+ "searchMvUrl": "https://heavyfetish.com/search/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&sort_by=video_viewed&from_videos={page}",
+ "searchReplacer": "+",
+ "pageStart": 1,
+ "pageStep": 1,
+ "listDiv": "div.hf-video-item",
+ "linkSelector": "a[href*=/videos/]",
+ "titleSelector": "strong.title",
+ "imgSelector": "img.thumb",
+ "imgAttr": "data-webp",
+ "durationSelector": "div.duration",
+ "previewImageTemplate": "https://heavyfetish.com/contents/videos_screenshots/{id}/800x450/{n}.jpg",
+ "previewIdSelector": "img.thumb",
+ "previewIdAttr": "data-webp",
+ "previewIdRegex": "videos_screenshots/(\\d+/\\d+)/",
+ "previewImageCount": 10,
+ "previewImageSecondsEach": 23,
+ "categories": [
+  {
+   "label": "4K",
+   "url": "https://heavyfetish.com/categories/4k-fetish-porn/{page}/"
+  },
+  {
+   "label": "Abduction",
+   "url": "https://heavyfetish.com/categories/abduction-porn/{page}/"
+  },
+  {
+   "label": "Amateur",
+   "url": "https://heavyfetish.com/categories/amateur/{page}/"
+  },
+  {
+   "label": "Amputee",
+   "url": "https://heavyfetish.com/categories/amputee-porn/{page}/"
+  },
+  {
+   "label": "Anal",
+   "url": "https://heavyfetish.com/categories/anal/{page}/"
+  },
+  {
+   "label": "Anal Cam",
+   "url": "https://heavyfetish.com/categories/anal-cam-porn/{page}/"
+  },
+  {
+   "label": "BBW",
+   "url": "https://heavyfetish.com/categories/bbw-porn/{page}/"
+  },
+  {
+   "label": "Big and Small",
+   "url": "https://heavyfetish.com/categories/big-and-small-porn/{page}/"
+  },
+  {
+   "label": "Bimbo",
+   "url": "https://heavyfetish.com/categories/bimbo-porn/{page}/"
+  },
+  {
+   "label": "Bodybuilder",
+   "url": "https://heavyfetish.com/categories/bodybuilder-porn/{page}/"
+  },
+  {
+   "label": "Bondage",
+   "url": "https://heavyfetish.com/categories/bondage-porn/{page}/"
+  },
+  {
+   "label": "Breast Milk",
+   "url": "https://heavyfetish.com/categories/breast-milk-porn/{page}/"
+  },
+  {
+   "label": "Breast Pump",
+   "url": "https://heavyfetish.com/categories/breast-pump-porn/{page}/"
+  },
+  {
+   "label": "Breath Play",
+   "url": "https://heavyfetish.com/categories/breath-play-porn/{page}/"
+  },
+  {
+   "label": "Bukkake",
+   "url": "https://heavyfetish.com/categories/bukkake-porn/{page}/"
+  },
+  {
+   "label": "Burial",
+   "url": "https://heavyfetish.com/categories/burial-porn/{page}/"
+  },
+  {
+   "label": "CBT",
+   "url": "https://heavyfetish.com/categories/cbt-porn/{page}/"
+  },
+  {
+   "label": "Choking",
+   "url": "https://heavyfetish.com/categories/choking-porn/{page}/"
+  },
+  {
+   "label": "Cutting",
+   "url": "https://heavyfetish.com/categories/cutting-porn/{page}/"
+  },
+  {
+   "label": "Danger Play",
+   "url": "https://heavyfetish.com/categories/danger-play-porn/{page}/"
+  },
+  {
+   "label": "DAP",
+   "url": "https://heavyfetish.com/categories/dap-porn/{page}/"
+  },
+  {
+   "label": "Deep Cam",
+   "url": "https://heavyfetish.com/categories/deep-cam-porn/{page}/"
+  },
+  {
+   "label": "Deepthroat",
+   "url": "https://heavyfetish.com/categories/deepthroat/{page}/"
+  },
+  {
+   "label": "Disabled",
+   "url": "https://heavyfetish.com/categories/disabled-porn/{page}/"
+  },
+  {
+   "label": "Drowning",
+   "url": "https://heavyfetish.com/categories/drowning-porn/{page}/"
+  },
+  {
+   "label": "DVP",
+   "url": "https://heavyfetish.com/categories/dvp-porn/{page}/"
+  },
+  {
+   "label": "Electrocution",
+   "url": "https://heavyfetish.com/categories/electrocution-porn/{page}/"
+  },
+  {
+   "label": "Enema",
+   "url": "https://heavyfetish.com/categories/enema-porn/{page}/"
+  },
+  {
+   "label": "Face Torture",
+   "url": "https://heavyfetish.com/categories/face-torture-porn/{page}/"
+  },
+  {
+   "label": "Fart Play",
+   "url": "https://heavyfetish.com/categories/fart-play-porn/{page}/"
+  },
+  {
+   "label": "Feet",
+   "url": "https://heavyfetish.com/categories/feet-porn/{page}/"
+  },
+  {
+   "label": "Femdom",
+   "url": "https://heavyfetish.com/categories/femdom/{page}/"
+  },
+  {
+   "label": "Filth",
+   "url": "https://heavyfetish.com/categories/filth-porn/{page}/"
+  },
+  {
+   "label": "Fisting",
+   "url": "https://heavyfetish.com/categories/fisting/{page}/"
+  },
+  {
+   "label": "Food Play",
+   "url": "https://heavyfetish.com/categories/food-play/{page}/"
+  },
+  {
+   "label": "Head Shaving",
+   "url": "https://heavyfetish.com/categories/head-shaving-porn/{page}/"
+  },
+  {
+   "label": "Huge Insertions",
+   "url": "https://heavyfetish.com/categories/huge-insertions-porn/{page}/"
+  },
+  {
+   "label": "Humiliation",
+   "url": "https://heavyfetish.com/categories/humiliation-porn/{page}/"
+  },
+  {
+   "label": "Insect Play",
+   "url": "https://heavyfetish.com/categories/insect-play-porn/{page}/"
+  },
+  {
+   "label": "Latex",
+   "url": "https://heavyfetish.com/categories/latex-porn/{page}/"
+  },
+  {
+   "label": "Lesbian",
+   "url": "https://heavyfetish.com/categories/lesbian/{page}/"
+  },
+  {
+   "label": "Masochism",
+   "url": "https://heavyfetish.com/categories/masochism-porn/{page}/"
+  },
+  {
+   "label": "Midget",
+   "url": "https://heavyfetish.com/categories/midget-porn/{page}/"
+  },
+  {
+   "label": "Needles",
+   "url": "https://heavyfetish.com/categories/needles-porn/{page}/"
+  },
+  {
+   "label": "Pain",
+   "url": "https://heavyfetish.com/categories/pain-porn/{page}/"
+  },
+  {
+   "label": "Pet Play",
+   "url": "https://heavyfetish.com/categories/pet-play-porn/{page}/"
+  },
+  {
+   "label": "Piss",
+   "url": "https://heavyfetish.com/categories/piss-porn/{page}/"
+  },
+  {
+   "label": "Pregnant",
+   "url": "https://heavyfetish.com/categories/pregnant-porn/{page}/"
+  },
+  {
+   "label": "Prolapse",
+   "url": "https://heavyfetish.com/categories/prolapse-porn/{page}/"
+  },
+  {
+   "label": "Public Nudity",
+   "url": "https://heavyfetish.com/categories/public-nudity-porn/{page}/"
+  },
+  {
+   "label": "Puke",
+   "url": "https://heavyfetish.com/categories/puke-porn/{page}/"
+  },
+  {
+   "label": "Pumping",
+   "url": "https://heavyfetish.com/categories/pumping-porn/{page}/"
+  },
+  {
+   "label": "Pussy Torture",
+   "url": "https://heavyfetish.com/categories/pussy-torture/{page}/"
+  },
+  {
+   "label": "Real Fighting Nudity",
+   "url": "https://heavyfetish.com/categories/real-fighting-nudity-porn/{page}/"
+  },
+  {
+   "label": "Sadism",
+   "url": "https://heavyfetish.com/categories/sadism-porn/{page}/"
+  },
+  {
+   "label": "Saline Injection",
+   "url": "https://heavyfetish.com/categories/saline-injection-porn/{page}/"
+  },
+  {
+   "label": "Slave",
+   "url": "https://heavyfetish.com/categories/slave-porn/{page}/"
+  },
+  {
+   "label": "Spit",
+   "url": "https://heavyfetish.com/categories/spit-porn/{page}/"
+  },
+  {
+   "label": "Strap On",
+   "url": "https://heavyfetish.com/categories/strap-on-porn/{page}/"
+  },
+  {
+   "label": "Toilet",
+   "url": "https://heavyfetish.com/categories/toilet-porn/{page}/"
+  },
+  {
+   "label": "Vagina Sewing",
+   "url": "https://heavyfetish.com/categories/vagina-sewing-porn/{page}/"
+  },
+  {
+   "label": "Vintage",
+   "url": "https://heavyfetish.com/categories/vintage-porn/{page}/"
+  },
+  {
+   "label": "Water Bondage",
+   "url": "https://heavyfetish.com/categories/water-bondage-porn/{page}/"
+  },
+  {
+   "label": "Wax Torture",
+   "url": "https://heavyfetish.com/categories/wax-torture-porn/{page}/"
+  },
+  {
+   "label": "Weird Insertions",
+   "url": "https://heavyfetish.com/categories/weird-insertions-porn/{page}/"
+  },
+  {
+   "label": "Whipping",
+   "url": "https://heavyfetish.com/categories/whipping-porn/{page}/"
+  },
+  {
+   "label": "Young vs Old",
+   "url": "https://heavyfetish.com/categories/young-vs-old-porn/{page}/"
+  }
+ ],
+ "cookies": {},
+ "detailsNoMetaDescription": true,
+ "stream": {
+  "regexes": [
+   "video(?:_alt)?_url\\d*:\\s*'([^']+\\.mp4[^']*)'",
+   "(https?://[^\"'\\s]*get_file[^\"'\\s]+\\.mp4[^\"'\\s]*)"
+  ],
+  "sourceSelector": "video source",
+  "sourceAttr": "src",
+  "iframeSelector": null
+ }
+}

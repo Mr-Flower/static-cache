@@ -3,6 +3,7 @@
   "base": "https://www.xnxx.com",
   "logo": "https://www.xnxx.com/apple-touch-icon.png",
   "searchUrl": "https://www.xnxx.com/search/{q}/{page}",
+  "searchMvUrl": "https://www.xnxx.com/search/hits/{q}/{page}",
   "searchReplacer": "+",
   "categoryReplacer": "-",
   "browseTabs": [
@@ -18,7 +19,7 @@
     },
     {
       "label": "Del mese",
-      "url": "https://www.xnxx.com/best/{page}",
+      "url": "https://www.xnxx.com/best",
       "labelKey": "month"
     }
   ],
@@ -45,5 +46,6 @@
     ],
     "sourceSelector": "video source",
     "sourceAttr": "src"
-  }
+  },
+  "searchPageStart": 0
 }

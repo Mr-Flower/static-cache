@@ -15,6 +15,7 @@
   "imgAttr": "data-original",
   "previewAttr": "data-preview",
   "preferredQuality": "720p",
+  "idOrder": "thumb",
   "stream": {
     "regexes": [
       "video_url\\s*:\\s*'(?:function/0/)?(https?://[^']+\\.mp4[^']*)'",

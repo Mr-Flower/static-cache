@@ -20,6 +20,7 @@
  "previewSelector": "img[data-preview]",
  "previewAttr": "data-preview",
  "cookies": {},
+ "detailsNoMetaDescription": true,
  "stream": {
   "regexes": [
    "video(?:_alt)?_url\\d*:\\s*'([^']+\\.mp4[^']*)'",

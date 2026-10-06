@@ -17,8 +17,91 @@
   "durationSelector": "span.duration",
   "previewApiUrl": "https://brazz-new.xyz/ajax.php?action=load_video_preview&code={code}",
   "previewApiCodeAttr": "data-post-id",
+  "categories": [
+    {
+      "label": "Baby Got Boobs",
+      "url": "https://brazz-new.xyz/en/site-detail/66/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Big Butts Like It Big",
+      "url": "https://brazz-new.xyz/en/site-detail/82/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Big Tits In Sports",
+      "url": "https://brazz-new.xyz/en/site-detail/83/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Big Tits In Uniform",
+      "url": "https://brazz-new.xyz/en/site-detail/89/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Big Tits at School",
+      "url": "https://brazz-new.xyz/en/site-detail/75/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Big Tits at Work",
+      "url": "https://brazz-new.xyz/en/site-detail/71/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Big Wet Butts",
+      "url": "https://brazz-new.xyz/en/site-detail/65/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Brazzers Exxtra",
+      "url": "https://brazz-new.xyz/en/site-detail/96/page-{page}/brazz-new/"
+    },
+    {
+      "label": "CFNM",
+      "url": "https://brazz-new.xyz/en/site-detail/98/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Day With A Pornstar",
+      "url": "https://brazz-new.xyz/en/site-detail/87/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Dirty Masseur",
+      "url": "https://brazz-new.xyz/en/site-detail/94/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Doctor Adventures",
+      "url": "https://brazz-new.xyz/en/site-detail/62/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Hot And Mean",
+      "url": "https://brazz-new.xyz/en/site-detail/90/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Milfs Like it Big",
+      "url": "https://brazz-new.xyz/en/site-detail/78/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Mommy Got Boobs",
+      "url": "https://brazz-new.xyz/en/site-detail/67/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Moms in control",
+      "url": "https://brazz-new.xyz/en/site-detail/99/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Pornstars Like it Big",
+      "url": "https://brazz-new.xyz/en/site-detail/77/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Real Wife Stories",
+      "url": "https://brazz-new.xyz/en/site-detail/81/page-{page}/brazz-new/"
+    },
+    {
+      "label": "Teens Like It Big",
+      "url": "https://brazz-new.xyz/en/site-detail/80/page-{page}/brazz-new/"
+    },
+    {
+      "label": "ZZ Series",
+      "url": "https://brazz-new.xyz/en/site-detail/92/page-{page}/brazz-new/"
+    }
+  ],
   "cookies": {},
-  "forceWebView": true,
+  "forceWebView": false,
+  "disablePreview": true,
   "requiresHttp2": true,
   "stream": {
     "regexes": [

@@ -7,6 +7,7 @@
   "mvUrl": "https://www.pornhub.com/video?o=mv&page={page}",
   "hotUrl": "https://www.pornhub.com/video?o=ht&page={page}",
   "searchUrl": "https://www.pornhub.com/video/search?search={q}&page={page}",
+  "searchMvUrl": "https://www.pornhub.com/video/search?search={q}&o=mv&page={page}",
   "searchReplacer": "+",
   "categoryReplacer": "-",
   "listDiv": "li.pcVideoListItem",
@@ -21,6 +22,8 @@
     "platform": "pc",
     "accessAgeDisclaimerPH": "1"
   },
+  "detailsScope": "div.video-wrapper.modelInfo",
+  "idOrder": "uniqid",
   "stream": {
     "regexes": [
       "\"videoUrl\"\\s*:\\s*\"([^\"]+)\"",

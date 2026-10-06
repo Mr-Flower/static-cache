@@ -18,6 +18,7 @@
   "durationRegex": "(\\d{1,2}:\\d{2}(?::\\d{2})?)",
   "previewAttr": "data-preview",
   "cookies": {},
+  "idOrder": "link",
   "stream": {
     "regexes": [
       "video_url:\\s*'([^']+)'",
@@ -27,5 +28,111 @@
     "sourceSelector": "video source",
     "sourceAttr": "src",
     "iframeSelector": null
-  }
+  },
+  "categories": [
+    {
+      "label": "Amateur",
+      "url": "https://neporn.com/categories/amateur/{page}/"
+    },
+    {
+      "label": "Anal",
+      "url": "https://neporn.com/categories/anal/{page}/"
+    },
+    {
+      "label": "Asian",
+      "url": "https://neporn.com/categories/asian/{page}/"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://neporn.com/categories/big-ass/{page}/"
+    },
+    {
+      "label": "Big Boobs",
+      "url": "https://neporn.com/categories/big-boobs/{page}/"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://neporn.com/categories/blonde/{page}/"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://neporn.com/categories/blowjob/{page}/"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://neporn.com/categories/brunette/{page}/"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://neporn.com/categories/creampie/{page}/"
+    },
+    {
+      "label": "Cumshots",
+      "url": "https://neporn.com/categories/cumshots/{page}/"
+    },
+    {
+      "label": "Deep Throat",
+      "url": "https://neporn.com/categories/deep-throat/{page}/"
+    },
+    {
+      "label": "Double Penetration",
+      "url": "https://neporn.com/categories/double-penetration/{page}/"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://neporn.com/categories/ebony/{page}/"
+    },
+    {
+      "label": "Gang Bang",
+      "url": "https://neporn.com/categories/gang-bang/{page}/"
+    },
+    {
+      "label": "Interracial",
+      "url": "https://neporn.com/categories/interracial/{page}/"
+    },
+    {
+      "label": "Latina",
+      "url": "https://neporn.com/categories/latina/{page}/"
+    },
+    {
+      "label": "Lesbian",
+      "url": "https://neporn.com/categories/lesbian/{page}/"
+    },
+    {
+      "label": "Lingerie",
+      "url": "https://neporn.com/categories/lingerie/{page}/"
+    },
+    {
+      "label": "MILF",
+      "url": "https://neporn.com/categories/milf/{page}/"
+    },
+    {
+      "label": "Orgy",
+      "url": "https://neporn.com/categories/orgy/{page}/"
+    },
+    {
+      "label": "POV",
+      "url": "https://neporn.com/categories/pov/{page}/"
+    },
+    {
+      "label": "Red Head",
+      "url": "https://neporn.com/categories/red-head/{page}/"
+    },
+    {
+      "label": "Solo",
+      "url": "https://neporn.com/categories/solo/{page}/"
+    },
+    {
+      "label": "Teen",
+      "url": "https://neporn.com/categories/teen/{page}/"
+    },
+    {
+      "label": "Threesome",
+      "url": "https://neporn.com/categories/threesome/{page}/"
+    },
+    {
+      "label": "Toys",
+      "url": "https://neporn.com/categories/toys/{page}/"
+    }
+  ]
 }

@@ -5,7 +5,7 @@
   "newUrl": "https://www.analdin.com/latest-updates/{page}/",
   "mvUrl": "https://www.analdin.com/most-popular/{page}/",
   "hotUrl": "https://www.analdin.com/top-rated/{page}/",
-  "searchUrl": "https://www.analdin.com/search/{q}/{page}/",
+  "searchUrl": "https://www.analdin.com/search/{q}/?from_videos={page}",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/videos/]",
   "titleSelector": "strong.title",
@@ -13,6 +13,7 @@
   "imgAttr": "data-original",
   "previewSelector": "a[vthumb]",
   "previewAttr": "vthumb",
+  "idOrder": "link",
   "stream": {
     "regexes": [
       "video(?:_alt)?_url\\d*\\s*:\\s*'([^']+)'",

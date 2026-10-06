@@ -20,6 +20,7 @@
   "previewIdRegex": "//(.+)_main\\.jpg",
   "previewImageCount": 10,
   "cookies": {},
+  "idOrder": "link",
   "stream": {
     "regexes": [
       "<source src=\\\\?\"((?:https?:)?//[^\"'\\\\\\s>]+\\.mp4)",
@@ -28,5 +29,127 @@
     "sourceSelector": "video source",
     "sourceAttr": "src",
     "iframeSelector": "iframe[src*=mydaddy]"
-  }
+  },
+  "categories": [
+    {
+      "label": "1080p porn HD",
+      "url": "https://hqporner.com/category/1080p-porn/{page}"
+    },
+    {
+      "label": "4K porn",
+      "url": "https://hqporner.com/category/4k-porn/{page}"
+    },
+    {
+      "label": "60 FPS porn",
+      "url": "https://hqporner.com/category/60fps-porn/{page}"
+    },
+    {
+      "label": "Amateur",
+      "url": "https://hqporner.com/category/amateur/{page}"
+    },
+    {
+      "label": "Anal",
+      "url": "https://hqporner.com/category/anal-sex-hd/{page}"
+    },
+    {
+      "label": "Asian",
+      "url": "https://hqporner.com/category/asian/{page}"
+    },
+    {
+      "label": "Babe",
+      "url": "https://hqporner.com/category/babe/{page}"
+    },
+    {
+      "label": "Bdsm",
+      "url": "https://hqporner.com/category/bdsm/{page}"
+    },
+    {
+      "label": "Beach",
+      "url": "https://hqporner.com/category/beach-porn/{page}"
+    },
+    {
+      "label": "Big Ass",
+      "url": "https://hqporner.com/category/big-ass/{page}"
+    },
+    {
+      "label": "Big Dick",
+      "url": "https://hqporner.com/category/big-dick/{page}"
+    },
+    {
+      "label": "Big Tits",
+      "url": "https://hqporner.com/category/big-tits/{page}"
+    },
+    {
+      "label": "Bisexual",
+      "url": "https://hqporner.com/category/bisexual/{page}"
+    },
+    {
+      "label": "Blonde",
+      "url": "https://hqporner.com/category/blonde/{page}"
+    },
+    {
+      "label": "Blowjob",
+      "url": "https://hqporner.com/category/blowjob/{page}"
+    },
+    {
+      "label": "Bondage",
+      "url": "https://hqporner.com/category/bondage/{page}"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://hqporner.com/category/brunette/{page}"
+    },
+    {
+      "label": "Casting",
+      "url": "https://hqporner.com/category/casting/{page}"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://hqporner.com/category/creampie/{page}"
+    },
+    {
+      "label": "Cumshot",
+      "url": "https://hqporner.com/category/cumshot/{page}"
+    },
+    {
+      "label": "Deepthroat",
+      "url": "https://hqporner.com/category/deepthroat/{page}"
+    },
+    {
+      "label": "Ebony",
+      "url": "https://hqporner.com/category/ebony/{page}"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://hqporner.com/category/fetish/{page}"
+    },
+    {
+      "label": "Fingering",
+      "url": "https://hqporner.com/category/fingering/{page}"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://hqporner.com/category/fisting/{page}"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://hqporner.com/category/gangbang/{page}"
+    },
+    {
+      "label": "Group Sex",
+      "url": "https://hqporner.com/category/group-sex/{page}"
+    },
+    {
+      "label": "Hairy Pussy",
+      "url": "https://hqporner.com/category/hairy-pussy/{page}"
+    },
+    {
+      "label": "Handjob",
+      "url": "https://hqporner.com/category/handjob/{page}"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://hqporner.com/category/hentai/{page}"
+    }
+  ]
 }

@@ -5,16 +5,19 @@
   "logoNeedsLight": false,
   "newUrl": "https://www.xvideos.com/new/{page}",
   "searchUrl": "https://www.xvideos.com/?k={q}&p={page}",
+  "searchMvUrl": "https://www.xvideos.com/?k={q}&sort=views&p={page}",
   "searchReplacer": "+",
   "categoryReplacer": "-",
-  "hotUrl": "https://www.xvideos.com/best/{page}",
+  "hotUrl": "https://www.xvideos.com/best",
   "listDiv": "div.thumb-block",
   "linkSelector": "p.title a, a[href*=/video]",
-  "titleSelector": "p.title a",
+  "titleSelector": "p.title a, div.title a",
   "titleStripSelector": ".duration",
   "imgSelector": "img",
   "imgAttr": "data-src",
-  "previewAttr": "data-pvv",
+  "previewAttr": "data-video",
+  "previewAttrJsonKey": "previewVideo",
+  "previewAttrAlt": "data-pvv",
   "durationSelector": ".duration",
   "cookies": {},
   "stream": {
@@ -91,5 +94,6 @@
       "label": "Teen (18+)",
       "url": "https://www.xvideos.com/c/Teen-13/{page}"
     }
-  ]
+  ],
+  "searchPageStart": 0
 }

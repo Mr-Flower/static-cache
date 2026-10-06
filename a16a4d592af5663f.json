@@ -2,9 +2,9 @@
   "sitetag": "tnaflix",
   "base": "https://www.tnaflix.com",
   "logo": "https://www.tnaflix.com/assets/img/favicon/tnaflix/android-icon-192x192.png",
-  "newUrl": "https://www.tnaflix.com/new/{page}/",
-  "hotUrl": "https://www.tnaflix.com/toprated/{page}/",
-  "searchUrl": "https://www.tnaflix.com/search.php?what={q}&page={page}",
+  "newUrl": "https://www.tnaflix.com/new/{page}",
+  "hotUrl": "https://www.tnaflix.com/toprated/{page}",
+  "searchUrl": "https://www.tnaflix.com/search?what={q}&page={page}",
   "searchReplacer": "+",
   "listDiv": "div[data-vid]",
   "linkSelector": "a.video-thumb, a.video-title, a[href*=/video]",
@@ -14,10 +14,9 @@
   "durationSelector": "div.video-duration",
   "previewAttr": "data-trailer",
   "cookies": {},
+  "idOrder": "link",
   "stream": {
     "regexes": [
-      "<source[^>]+src=\"([^\"]+\\.mp4[^\"]*)\"[^>]*size=\"1080\"",
-      "<source[^>]+src=\"([^\"]+\\.mp4[^\"]*)\"[^>]*size=\"720\"",
       "<source[^>]+src=\"([^\"]+\\.mp4[^\"]*)\"",
       "(https?:\\/\\/[^\"'\\s]+\\.mp4\\?[^\"'\\s]*secure=[^\"'\\s]*)"
     ],

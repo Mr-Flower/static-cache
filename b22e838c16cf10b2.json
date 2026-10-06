@@ -17,6 +17,7 @@
  "imgAttr": "src",
  "durationSelector": "div.video-duration",
  "cookies": {},
+ "idOrder": "link",
  "stream": {
   "regexes": [
    "(https?://[^\"'\\s]+\\.mp4\\?[^\"'\\s]*)"
@@ -26,7 +27,7 @@
   "playerUrl": "https://www.yuvideos.com/embed/{id}/",
   "playerUrlRegex": "/(\\d+)/"
  },
- "previewIdSelector": "img.thumb",
+ "previewIdSelector": "img.thumb:not([src*=private])",
  "previewIdAttr": "abs:src",
  "previewIdRegex": "(.*/)[0-9]+\\.jpg",
  "previewImageTemplate": "{id}{n}.jpg",

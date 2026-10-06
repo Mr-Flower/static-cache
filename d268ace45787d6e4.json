@@ -6,11 +6,14 @@
   "newUrl": "https://sxyprn.com/blog/all/{page}.html?sm=latest",
   "mvUrl": "https://sxyprn.com/blog/all/{page}.html?sm=views",
   "hotUrl": "https://sxyprn.com/blog/all/{page}.html?sm=orgasmic",
-  "searchUrl": "https://sxyprn.com/{q}.html",
+  "searchUrl": "https://sxyprn.com/{q}.html?page={page}",
+  "searchMvUrl": "https://sxyprn.com/{q}.html?sm=views&page={page}",
   "searchReplacer": "-",
   "categoryReplacer": "-",
   "pageStart": 0,
   "pageStep": 20,
+  "searchPageStart": 0,
+  "searchPageStep": 30,
   "browseTabs": [
     {
       "label": "Nuovi",
@@ -38,7 +41,7 @@
   "listDiv": "div.post_el_small",
   "linkSelector": "a.js-pop, a[href*=/post/]",
   "titleSelector": ".post_text",
-  "titleStripSelector": "span.sub_el",
+  "titleStripSelector": "span.sub_el, a.extlink",
   "durationSelector": "span.duration_small",
   "excludeSelector": "span.duration_small:contains(EXTERNAL LINK), span.duration_small:contains(?)",
   "imgSelector": "img",
@@ -46,6 +49,7 @@
   "previewAttr": "src",
   "previewSelector": "video.hvp_player",
   "cookies": {},
+  "idOrder": "uniqid",
   "stream": {
     "regexes": []
   },

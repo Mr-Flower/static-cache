@@ -18,6 +18,7 @@
   "previewIdRegex": "//(.+/\\d+x\\d+/)",
   "previewImageCount": 10,
   "cookies": {},
+  "idOrder": "link",
   "stream": {
     "regexes": [
       "(https?://[^\"'\\s]*/get_file/[^\"'\\s]*\\.mp4/\\?download[^\"'\\s&]*)",
@@ -28,5 +29,127 @@
     "sourceSelector": "video source",
     "sourceAttr": "src",
     "iframeSelector": null
-  }
+  },
+  "categories": [
+    {
+      "label": "Amatoriali",
+      "url": "https://www.solopornoitaliani.xxx/categorie/amatoriali/{page}/"
+    },
+    {
+      "label": "Anale",
+      "url": "https://www.solopornoitaliani.xxx/categorie/anale/{page}/"
+    },
+    {
+      "label": "Asiatiche",
+      "url": "https://www.solopornoitaliani.xxx/categorie/asiatiche/{page}/"
+    },
+    {
+      "label": "Bdsm",
+      "url": "https://www.solopornoitaliani.xxx/categorie/bdsm/{page}/"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.solopornoitaliani.xxx/categorie/casting/{page}/"
+    },
+    {
+      "label": "Cazzi Giganti",
+      "url": "https://www.solopornoitaliani.xxx/categorie/cazzi-giganti/{page}/"
+    },
+    {
+      "label": "Ciccione",
+      "url": "https://www.solopornoitaliani.xxx/categorie/ciccione/{page}/"
+    },
+    {
+      "label": "Creampie",
+      "url": "https://www.solopornoitaliani.xxx/categorie/creampie/{page}/"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.solopornoitaliani.xxx/categorie/cuckold/{page}/"
+    },
+    {
+      "label": "Culone",
+      "url": "https://www.solopornoitaliani.xxx/categorie/culone/{page}/"
+    },
+    {
+      "label": "Dildo",
+      "url": "https://www.solopornoitaliani.xxx/categorie/dildo/{page}/"
+    },
+    {
+      "label": "Doppie penetrazioni",
+      "url": "https://www.solopornoitaliani.xxx/categorie/doppie-penetrazioni/{page}/"
+    },
+    {
+      "label": "Esibizionisti",
+      "url": "https://www.solopornoitaliani.xxx/categorie/esibizionisti/{page}/"
+    },
+    {
+      "label": "Facciale",
+      "url": "https://www.solopornoitaliani.xxx/categorie/facciale/{page}/"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.solopornoitaliani.xxx/categorie/fetish/{page}/"
+    },
+    {
+      "label": "Film Erotici Italiani",
+      "url": "https://www.solopornoitaliani.xxx/categorie/film-erotici-italiani/{page}/"
+    },
+    {
+      "label": "Film porno italiani",
+      "url": "https://www.solopornoitaliani.xxx/categorie/film-porno-italiani/{page}/"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.solopornoitaliani.xxx/categorie/fisting/{page}/"
+    },
+    {
+      "label": "Gangbang",
+      "url": "https://www.solopornoitaliani.xxx/categorie/gangbang/{page}/"
+    },
+    {
+      "label": "Gay",
+      "url": "https://www.solopornoitaliani.xxx/categorie/gay/{page}/"
+    },
+    {
+      "label": "Hardcore",
+      "url": "https://www.solopornoitaliani.xxx/categorie/hardcore/{page}/"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.solopornoitaliani.xxx/categorie/hentai/{page}/"
+    },
+    {
+      "label": "Interraziali",
+      "url": "https://www.solopornoitaliani.xxx/categorie/interraziali/{page}/"
+    },
+    {
+      "label": "Italiani con dialoghi",
+      "url": "https://www.solopornoitaliani.xxx/categorie/italiani-con-dialoghi/{page}/"
+    },
+    {
+      "label": "Latine",
+      "url": "https://www.solopornoitaliani.xxx/categorie/latine/{page}/"
+    },
+    {
+      "label": "Lesbiche",
+      "url": "https://www.solopornoitaliani.xxx/categorie/lesbiche/{page}/"
+    },
+    {
+      "label": "Masturbazione",
+      "url": "https://www.solopornoitaliani.xxx/categorie/masturbazione/{page}/"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.solopornoitaliani.xxx/categorie/mature/{page}/"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.solopornoitaliani.xxx/categorie/milf/{page}/"
+    },
+    {
+      "label": "Nere",
+      "url": "https://www.solopornoitaliani.xxx/categorie/nere/{page}/"
+    }
+  ]
 }

@@ -6,6 +6,7 @@
   "mvUrl": "https://www.youporn.com/browse/views/?page={page}",
   "hotUrl": "https://www.youporn.com/?page={page}",
   "searchUrl": "https://www.youporn.com/search/?query={q}&page={page}",
+  "searchMvUrl": "https://www.youporn.com/search/views/?query={q}&page={page}",
   "searchReplacer": "+",
   "listDiv": "article.js_video-box",
   "linkSelector": "a.video-title-text, a[href*=/watch/]",
@@ -18,6 +19,8 @@
     "age_verified": "1",
     "platform": "pc"
   },
+  "detailsScope": "div.video-featureWrapper",
+  "idOrder": "link",
   "stream": {
     "regexes": [
       "(https?:\\\\?/\\\\?/[^\"'\\s]+\\.m3u8[^\"'\\s]*)",

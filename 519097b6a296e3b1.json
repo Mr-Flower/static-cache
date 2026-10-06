@@ -5,7 +5,7 @@
   "newUrl": "https://www.amaporn.com/?mode=async&function=get_block&block_id=list_videos_most_recent_videos&sort_by=post_date&from={page}",
   "mvUrl": "https://www.amaporn.com/?mode=async&function=get_block&block_id=list_videos_most_recent_videos&sort_by=video_viewed&from={page}",
   "hotUrl": "https://www.amaporn.com/?mode=async&function=get_block&block_id=list_videos_most_recent_videos&sort_by=rating&from={page}",
-  "searchUrl": "https://www.amaporn.com/cerca/{q}/",
+  "searchUrl": "https://www.amaporn.com/cerca/{q}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q={q}&from_videos={page}",
   "searchReplacer": "+",
   "listDiv": "div.item",
   "linkSelector": "a[href*=/videos/]",
@@ -15,7 +15,279 @@
   "durationSelector": "span.duration",
   "previewSelector": "img.thumb",
   "previewAttr": "data-preview",
+  "previewImageTemplate": "https://{id}{n}.jpg",
+  "previewIdSelector": "img.thumb",
+  "previewIdAttr": "data-original",
+  "previewIdRegex": "//(.+/\\d+x\\d+/)",
+  "previewImageCount": 10,
   "cookies": {},
+  "categories": [
+    {
+      "label": "Tette Piccole",
+      "url": "https://www.amaporn.com/video-porno/tette-piccole/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Trio",
+      "url": "https://www.amaporn.com/video-porno/trio/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Masturbazione Maschile",
+      "url": "https://www.amaporn.com/video-porno/masturbazione-maschile/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Fidanzate",
+      "url": "https://www.amaporn.com/video-porno/fidanzate/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Esibizionisti",
+      "url": "https://www.amaporn.com/video-porno/esibizionisti/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Ragazze Amatoriali",
+      "url": "https://www.amaporn.com/video-porno/ragazze-amatoriali/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Cuckold",
+      "url": "https://www.amaporn.com/video-porno/cuckold/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Ex Ragazze",
+      "url": "https://www.amaporn.com/video-porno/ex-ragazze/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Film Italiani Completi",
+      "url": "https://www.amaporn.com/video-porno/film-italiani-completi/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Cazzi Grossi",
+      "url": "https://www.amaporn.com/video-porno/cazzi-grossi/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Fiche",
+      "url": "https://www.amaporn.com/video-porno/fiche/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Dialoghi Italiani",
+      "url": "https://www.amaporn.com/video-porno/dialoghi-italiani/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Gole Profonde",
+      "url": "https://www.amaporn.com/video-porno/gole-profonde/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Sborrate",
+      "url": "https://www.amaporn.com/video-porno/sborrate/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Gay",
+      "url": "https://www.amaporn.com/video-porno/gay/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Grossi Culi",
+      "url": "https://www.amaporn.com/video-porno/grossi-culi/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Pornostar",
+      "url": "https://www.amaporn.com/video-porno/pornostar/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Anale",
+      "url": "https://www.amaporn.com/video-porno/anale/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Trans",
+      "url": "https://www.amaporn.com/video-porno/trans/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "MILF",
+      "url": "https://www.amaporn.com/video-porno/milf/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Ditalini",
+      "url": "https://www.amaporn.com/video-porno/ditalini/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Dildo",
+      "url": "https://www.amaporn.com/video-porno/dildo/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Hentai",
+      "url": "https://www.amaporn.com/video-porno/hentai/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Prostitute",
+      "url": "https://www.amaporn.com/video-porno/prostitute/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Italiane Social",
+      "url": "https://www.amaporn.com/video-porno/italiane-social/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Compilation",
+      "url": "https://www.amaporn.com/video-porno/compilation/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Masturbazione",
+      "url": "https://www.amaporn.com/video-porno/masturbazione/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Fetish",
+      "url": "https://www.amaporn.com/video-porno/fetish/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Studentesse",
+      "url": "https://www.amaporn.com/video-porno/studentesse/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Tettone",
+      "url": "https://www.amaporn.com/video-porno/tettone/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Amatoriali",
+      "url": "https://www.amaporn.com/video-porno/amatoriali/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Lesbiche",
+      "url": "https://www.amaporn.com/video-porno/lesbiche/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Mogli",
+      "url": "https://www.amaporn.com/video-porno/mogli/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Tatuate",
+      "url": "https://www.amaporn.com/video-porno/tatuate/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Fisting",
+      "url": "https://www.amaporn.com/video-porno/fisting/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Webcam",
+      "url": "https://www.amaporn.com/video-porno/webcam/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Bionde",
+      "url": "https://www.amaporn.com/video-porno/bionde/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Bukkake",
+      "url": "https://www.amaporn.com/video-porno/bukkake/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Teen",
+      "url": "https://www.amaporn.com/video-porno/teen/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Latine",
+      "url": "https://www.amaporn.com/video-porno/latine/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Pompini",
+      "url": "https://www.amaporn.com/video-porno/pompini/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Seghe",
+      "url": "https://www.amaporn.com/video-porno/seghe/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Interrazziali",
+      "url": "https://www.amaporn.com/video-porno/interrazziali/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Brunette",
+      "url": "https://www.amaporn.com/video-porno/brunette/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Doppie Penetrazioni",
+      "url": "https://www.amaporn.com/video-porno/doppie-penetrazioni/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Travestiti",
+      "url": "https://www.amaporn.com/video-porno/travestiti/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Casting",
+      "url": "https://www.amaporn.com/video-porno/casting/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Fiche Pelose",
+      "url": "https://www.amaporn.com/video-porno/fiche-pelose/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Ragazze dell'Est",
+      "url": "https://www.amaporn.com/video-porno/ragazze-dell-est/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Rosse",
+      "url": "https://www.amaporn.com/video-porno/rosse/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Orge",
+      "url": "https://www.amaporn.com/video-porno/orge/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Mature",
+      "url": "https://www.amaporn.com/video-porno/mature/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Voyeur",
+      "url": "https://www.amaporn.com/video-porno/voyeur/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Nudisti",
+      "url": "https://www.amaporn.com/video-porno/nudisti/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Coppie",
+      "url": "https://www.amaporn.com/video-porno/coppie/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Italiani",
+      "url": "https://www.amaporn.com/video-porno/italiani/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "BDSM",
+      "url": "https://www.amaporn.com/video-porno/bdsm/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Nere",
+      "url": "https://www.amaporn.com/video-porno/nere/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Grasse e Porche",
+      "url": "https://www.amaporn.com/video-porno/grasse-e-porche/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Infermiere",
+      "url": "https://www.amaporn.com/video-porno/infermiere/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Asiatiche",
+      "url": "https://www.amaporn.com/video-porno/asiatiche/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Ciccione",
+      "url": "https://www.amaporn.com/video-porno/ciccione/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Softcore",
+      "url": "https://www.amaporn.com/video-porno/softcore/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Vecchie",
+      "url": "https://www.amaporn.com/video-porno/vecchie/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Celebrità",
+      "url": "https://www.amaporn.com/video-porno/celebrita/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    },
+    {
+      "label": "Vintage",
+      "url": "https://www.amaporn.com/video-porno/vintage/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={page}"
+    }
+  ],
+  "idOrder": "link",
   "stream": {
     "regexes": [
       "video_url:\\s*'([^']+\\.mp4[^']*)'",

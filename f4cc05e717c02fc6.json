@@ -6,6 +6,7 @@
   "mvUrl": "https://www.youjizz.com/most-popular/{page}.html",
   "hotUrl": "https://www.youjizz.com/top-rated/{page}.html",
   "searchUrl": "https://www.youjizz.com/search/{q}-{page}.html",
+  "searchMvUrl": "https://www.youjizz.com/search/views_{q}-{page}.html",
   "searchReplacer": "-",
   "listDiv": "div.video-item",
   "linkSelector": "a.frame.video, .video-title a",
