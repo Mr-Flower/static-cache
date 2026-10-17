@@ -26,6 +26,7 @@
     ],
     "sourceSelector": "video source",
     "sourceAttr": "src",
+    "timeoutSeconds": 30,
     "iframeSelector": null
   },
   "categories": [
